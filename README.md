@@ -35,6 +35,7 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
+- [Vue](#vue)
 
 ## Astro 
 
@@ -138,6 +139,7 @@
 
 ## HCL 
 
+- [shibumi/infra](https://github.com/shibumi/infra) - My personal infrastructure managed by terraform
 - [Olivr/free-domain](https://github.com/Olivr/free-domain) - Get a cluster.ws & wip.la domain for free and instantly
 - [NickMRamirez/Proxy-Benchmarks](https://github.com/NickMRamirez/Proxy-Benchmarks) - Benchmarks for several proxies
 
@@ -175,6 +177,8 @@
 
 ## JavaScript 
 
+- [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [lesjoursfr/gdpr-consent](https://github.com/lesjoursfr/gdpr-consent) - GDPR banner to comply with the European cookie law. Inspired by tarteaucitronjs.
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper) - Node.js scraper to get data from Google Play
@@ -396,6 +400,8 @@
 
 ## TypeScript 
 
+- [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
+- [ghaiklor/icecast-parser](https://github.com/ghaiklor/icecast-parser) - Node.js module for getting and parsing metadata from SHOUTcast/Icecast radio streams
 - [anirbanmu/Vizl](https://github.com/anirbanmu/Vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
 - [jherr/bun-vs-node-2](https://github.com/jherr/bun-vs-node-2) - Bun vs Node performance comparison - part 2
 - [yoshixmk/deno-x-ranking](https://github.com/yoshixmk/deno-x-ranking) - 🦕 Deno Third Party Modules Ranking 👑
@@ -442,6 +448,10 @@
 - [EddyVerbruggen/remove.bg](https://github.com/EddyVerbruggen/remove.bg) - A Node.js wrapper for the remove.bg API
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
+
+## Vue 
+
+- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 
 
 ## License
