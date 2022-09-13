@@ -419,7 +419,7 @@
 - [master-co/css-language-service](https://github.com/master-co/css-language-service) - Master CSS language service and syntax highlighting for Visual Studio Code
 - [zaki-yama/copy-title-and-url-as-markdown](https://github.com/zaki-yama/copy-title-and-url-as-markdown) - Chrome Extension: Quickly copy the title & url of current tab as Markdown style
 - [windicss/windicss-analysis](https://github.com/windicss/windicss-analysis) - 🔍 A visual analyzer for Windi CSS
-- [heybokeh/pollen](https://github.com/heybokeh/pollen) - The foundation of your next design system — CSS variables to accelerate development and encourage consistency
+- [heybokeh/pollen](https://github.com/heybokeh/pollen) - The CSS variables build system
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [redwerkz/personal-astro-theme](https://github.com/redwerkz/personal-astro-theme) - Personal AstroJS theme for Stackbit V2
 - [fell-lucas/chrome-ext-template-preact-windi-vite](https://github.com/fell-lucas/chrome-ext-template-preact-windi-vite) - 
@@ -436,7 +436,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - 🎥 full-featured wrapper around YouTube's private API — reverse engineering InnerTube
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [NikolaRHristov/astro-compress](https://github.com/NikolaRHristov/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
+- [Lightrix/astro-compress](https://github.com/Lightrix/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
