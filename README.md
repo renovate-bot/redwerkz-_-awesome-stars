@@ -23,6 +23,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Nim](#nim)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
@@ -32,6 +33,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Scheme](#scheme)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
@@ -49,6 +51,8 @@
 
 ## C 
 
+- [htacg/tidy-html5](https://github.com/htacg/tidy-html5) - The granddaddy of HTML tools, with support for modern standards
+- [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [friendlyarm/kernel-rockchip](https://github.com/friendlyarm/kernel-rockchip) - BSP kernel source
 - [friendlyarm/uboot_nanopi](https://github.com/friendlyarm/uboot_nanopi) - Uboot for FriendlyARM NanoPi
@@ -75,6 +79,7 @@
 
 ## CSS 
 
+- [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatu
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [RocketCommunicationsInc/astro-www](https://github.com/RocketCommunicationsInc/astro-www) - The source code for the Astro UXDS website
 - [filipelinhares/ress](https://github.com/filipelinhares/ress) - 🚿 A modern CSS reset
@@ -96,6 +101,8 @@
 
 ## Dockerfile 
 
+- [michellabbe/docker-iperf3](https://github.com/michellabbe/docker-iperf3) - Dockerfile to setup a simple iperf3 server based on Alpine
+- [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) - A list of public iPerf3 servers...
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [vitalets/docker-tizen-webos-sdk](https://github.com/vitalets/docker-tizen-webos-sdk) - Docker image with Samsung Tizen CLI and LG webOS CLI
 - [fluent/fluentd-docker-image](https://github.com/fluent/fluentd-docker-image) - Docker image for Fluentd
@@ -107,6 +114,8 @@
 
 ## Go 
 
+- [augmentable-dev/tickgit](https://github.com/augmentable-dev/tickgit) - Manage your repository's TODOs, tickets and checklists as config in your codebase.
+- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [Automattic/go-search-replace](https://github.com/Automattic/go-search-replace) - 🚀 Search & replace URLs in WordPress SQL files.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
@@ -284,6 +293,10 @@
 
 - [publysher/docker-hugo](https://github.com/publysher/docker-hugo) - Docker base image for static sites generated with Hugo
 
+## Nim 
+
+- [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
+
 ## Nunjucks 
 
 - [lumeland/base-blog](https://github.com/lumeland/base-blog) - A template repository to build a blog with Lume static site generator
@@ -291,6 +304,8 @@
 
 ## Others 
 
+- [Stability-AI/awesome-stability](https://github.com/Stability-AI/awesome-stability) - Awesome Stability List
+- [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - Command-line fetch tools for system/other information
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [denolib/awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
@@ -328,6 +343,10 @@
 
 ## Python 
 
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) - :computer: Maintained fork of the original Archey (Linux) system tool
+- [volitank/nala](https://github.com/volitank/nala) - a wrapper for the apt package manager.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
 - [hermanTenuki/ASCII-Generator.site](https://github.com/hermanTenuki/ASCII-Generator.site) - Django website for generating ASCII-arts out of images or text 🎨
@@ -374,8 +393,14 @@
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [markteekman/accessible-astro-starter](https://github.com/markteekman/accessible-astro-starter) - An Accessible Starter Theme for Astro including accessiblity features such as landmarks, better focus-outline and skip-links navigation.
 
+## Scheme 
+
+- [EndeavourOS-Community-Editions/worm](https://github.com/EndeavourOS-Community-Editions/worm) - Worm CE for EndeavourOS
+
 ## Shell 
 
+- [endeavouros-team/endeavouros-DE-fixes](https://github.com/endeavouros-team/endeavouros-DE-fixes) - fixes for DE vanilla installs
+- [ydns/bash-updater](https://github.com/ydns/bash-updater) - YDNS Bash Updater Script
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [imlinus/ascii-font](https://github.com/imlinus/ascii-font) - A tool to generate ascii block text
@@ -396,12 +421,14 @@
 
 ## Svelte 
 
+- [ravenclaw900/DietPi-Dashboard](https://github.com/ravenclaw900/DietPi-Dashboard) - A lightweight, standalone web dashboard for DietPi
 - [sw-yx/swyxdotio](https://github.com/sw-yx/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
 - [christopher-kapic/astro-devblog](https://github.com/christopher-kapic/astro-devblog) - A 🔥blazingly fast🔥 developer blog template built with Astro, NetlifyCMS, TailwindCSS, and Prisma that can automatically publish to Medium and Dev.to.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 
 ## TypeScript 
 
+- [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
 - [ghaiklor/icecast-parser](https://github.com/ghaiklor/icecast-parser) - Node.js module for getting and parsing metadata from SHOUTcast/Icecast radio streams
