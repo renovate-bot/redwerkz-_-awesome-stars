@@ -67,11 +67,16 @@
 
 ## C# # 
 
+- [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
 
 ## C++ 
 
+- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
+- [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [google/woff2](https://github.com/google/woff2) - 
 - [bbc/audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -79,6 +84,8 @@
 
 ## CSS 
 
+- [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
+- [MagicLike/galaxy](https://github.com/MagicLike/galaxy) - A LittleLink Custom Theme. Galaxy is a dark mode only, minimalist theme. The background consists of a parallax pure CSS animation with a dark gradient and white contrasting elements.
 - [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatu
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [RocketCommunicationsInc/astro-www](https://github.com/RocketCommunicationsInc/astro-www) - The source code for the Astro UXDS website
@@ -101,6 +108,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) - 
 - [michellabbe/docker-iperf3](https://github.com/michellabbe/docker-iperf3) - Dockerfile to setup a simple iperf3 server based on Alpine
 - [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) - A list of public iPerf3 servers...
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
@@ -114,6 +122,7 @@
 
 ## Go 
 
+- [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure provisioned with Terraform
 - [augmentable-dev/tickgit](https://github.com/augmentable-dev/tickgit) - Manage your repository's TODOs, tickets and checklists as config in your codebase.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
@@ -188,6 +197,13 @@
 
 ## JavaScript 
 
+- [undergroundwires/safe-email](https://github.com/undergroundwires/safe-email) - 🛡️📧 Protect e-mails against spam and scraping bots
+- [ashley-taylor/regex-property-action](https://github.com/ashley-taylor/regex-property-action) - 
+- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
+- [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
+- [AInoob/NooBoss](https://github.com/AInoob/NooBoss) - NooBoss is an extension that handles your extensions like a boss!
+- [AwesomeWebProjects/react-player](https://github.com/AwesomeWebProjects/react-player) - One audio player built with ReactJS, Web Audio API and Web Worker API
 - [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [lesjoursfr/gdpr-consent](https://github.com/lesjoursfr/gdpr-consent) - GDPR banner to comply with the European cookie law. Inspired by tarteaucitronjs.
@@ -304,6 +320,8 @@
 
 ## Others 
 
+- [JulianPrieber/llc-themes](https://github.com/JulianPrieber/llc-themes) - A list of themes for LittleLink Custom. Customize the look of your LittleLink Custom instance with themes. Themes allow you to change the look and feel of your site with a few clicks. Users can submit
+- [VSCodium/vscodium-insiders](https://github.com/VSCodium/vscodium-insiders) - binary releases of VS Code (Insiders) without MS branding/telemetry/licensing
 - [Stability-AI/awesome-stability](https://github.com/Stability-AI/awesome-stability) - Awesome Stability List
 - [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - Command-line fetch tools for system/other information
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -328,6 +346,9 @@
 
 ## PHP 
 
+- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕 - we stand with 🇺🇦
+- [MagicLike/readme-typing-svg](https://github.com/MagicLike/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [filegator/filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
 - [jdel/sspks](https://github.com/jdel/sspks) - A very simple Synology Package Server, reverse engineered from the official Synology package repository and SynoCommunity.
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
@@ -338,11 +359,16 @@
 
 ## PowerShell 
 
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
 ## Python 
 
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+- [ThereOHM/playlist_scraper](https://github.com/ThereOHM/playlist_scraper) - Python online webradio playlist scraper
+- [unrblt/beets-bandcamp](https://github.com/unrblt/beets-bandcamp) - Plugin for beets (http://beets.io) to use bandcamp as an autotagger source.
+- [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) - :computer: Maintained fork of the original Archey (Linux) system tool
@@ -375,6 +401,8 @@
 
 ## Rust 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+- [untitaker/hyperlink](https://github.com/untitaker/hyperlink) - Very fast link checker for CI.
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - Fast, clean, lightweight, robust, and efficient package management.
 - [realaravinth/gitpad](https://github.com/realaravinth/gitpad) - Self-Hosted alternative to GitHub Gists
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -399,6 +427,7 @@
 
 ## Shell 
 
+- [undergroundwires/bump-everywhere](https://github.com/undergroundwires/bump-everywhere) - 🚀 Automate versioning, changelog creation, README updates and GitHub releases using GitHub Actions,npm, docker or bash.
 - [endeavouros-team/endeavouros-DE-fixes](https://github.com/endeavouros-team/endeavouros-DE-fixes) - fixes for DE vanilla installs
 - [ydns/bash-updater](https://github.com/ydns/bash-updater) - YDNS Bash Updater Script
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -428,6 +457,11 @@
 
 ## TypeScript 
 
+- [open-source-labs/vno](https://github.com/open-source-labs/vno) - a build tool for compiling and bundling Vue single-file components
+- [dev-xo/stripe-postgres-stack](https://github.com/dev-xo/stripe-postgres-stack) - An open source Remix Stack that integrates Stripe Subscriptions, Social Authentication, Testing and a few more features. PostgreSQL version. Deploys to Fly.io
+- [dev-xo/barebones-stack](https://github.com/dev-xo/barebones-stack) - A robust create-remix app, that applies best practices into a clean, batteries included template. SQLite version. Deploys to Fly.io
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
+- [Lightrix/fresh-compress](https://github.com/Lightrix/fresh-compress) - 🗜️ FreshJS Compression utilities. Compress HTML, CSS, JavaScript and more.
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
@@ -481,6 +515,7 @@
 
 ## Vue 
 
+- [tutaru99/Internet-Radio-Player-Vue](https://github.com/tutaru99/Internet-Radio-Player-Vue) - Internet Radio Player with an Audio Visualizer made using VueJS, Vuetify & Howler.JS frameworks. The Player has a bunch of radio stations. Check out the demo below.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 
 
