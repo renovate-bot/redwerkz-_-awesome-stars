@@ -249,6 +249,7 @@
 
 ## cli 
 
+- [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - Command-line fetch tools for system/other information
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
@@ -392,6 +393,7 @@
 
 ## firefox 
 
+- [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [brandon1024/find](https://github.com/brandon1024/find) - A find-in-page extension for Chrome and Firefox that supports regular expressions.
 - [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
@@ -407,6 +409,8 @@
 
 ## font 
 
+- [source-foundry/font-line](https://github.com/source-foundry/font-line) - OpenType vertical metrics reporting and font line spacing adjustment tool
+- [source-foundry/Hack-windows-installer](https://github.com/source-foundry/Hack-windows-installer) - A Windows installer for the Hack typeface
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [imlinus/ascii-font](https://github.com/imlinus/ascii-font) - A tool to generate ascii block text
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
@@ -434,6 +438,7 @@
 
 ## github 
 
+- [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [undergroundwires/bump-everywhere](https://github.com/undergroundwires/bump-everywhere) - 🚀 Automate versioning, changelog creation, README updates and GitHub releases using GitHub Actions,npm, docker or bash.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
@@ -573,6 +578,7 @@
 
 ## javascript 
 
+- [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [myxvisual/react-uwp](https://github.com/myxvisual/react-uwp) - 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design.
 - [undergroundwires/safe-email](https://github.com/undergroundwires/safe-email) - 🛡️📧 Protect e-mails against spam and scraping bots
 - [AwesomeWebProjects/react-player](https://github.com/AwesomeWebProjects/react-player) - One audio player built with ReactJS, Web Audio API and Web Worker API
@@ -739,6 +745,7 @@
 
 ## nodejs 
 
+- [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [ghaiklor/icecast-parser](https://github.com/ghaiklor/icecast-parser) - Node.js module for getting and parsing metadata from SHOUTcast/Icecast radio streams
 - [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper) - Node.js scraper to get data from Google Play
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
@@ -781,6 +788,7 @@
 
 ## others 
 
+- [sblask/webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect) - Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
 - [stevepryde/tauri-yew-demo](https://github.com/stevepryde/tauri-yew-demo) - Demo project for the Tauri + Yew tutorial
 - [winget-run/wingetdotrun](https://github.com/winget-run/wingetdotrun) - 📦 Finding winget packages made easy 🔍
 - [digimezzo/dopamine](https://github.com/digimezzo/dopamine) - The audio player that keeps it simple
@@ -1002,6 +1010,7 @@
 
 ## python 
 
+- [source-foundry/font-line](https://github.com/source-foundry/font-line) - OpenType vertical metrics reporting and font line spacing adjustment tool
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [ThereOHM/playlist_scraper](https://github.com/ThereOHM/playlist_scraper) - Python online webradio playlist scraper
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
@@ -1096,6 +1105,7 @@
 
 ## security 
 
+- [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
@@ -1160,9 +1170,11 @@
 
 ## typescript 
 
+- [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
+- [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [myxvisual/react-uwp](https://github.com/myxvisual/react-uwp) - 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design.
 - [dev-xo/stripe-postgres-stack](https://github.com/dev-xo/stripe-postgres-stack) - An Open Source Remix template that integrates Stripe Subscriptions, Social Authentication, Testing and a few more features. PostgreSQL version. Deploys to Fly.io
-- [dev-xo/barebones-stack](https://github.com/dev-xo/barebones-stack) - A robust create-remix template, that applies best practices into a clean, batteries included template. SQLite version. Deploys to Fly.io
+- [dev-xo/barebones-stack](https://github.com/dev-xo/barebones-stack) - A robust create-remix app, that applies best practices into a clean, batteries included template. SQLite version. Deploys to Fly.io
 - [ravenclaw900/DietPi-Dashboard](https://github.com/ravenclaw900/DietPi-Dashboard) - A lightweight, standalone web dashboard for DietPi
 - [anirbanmu/Vizl](https://github.com/anirbanmu/Vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
