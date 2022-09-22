@@ -164,6 +164,7 @@
 
 ## arduino 
 
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
 - [homieiot/homie-esp8266](https://github.com/homieiot/homie-esp8266) - 💡 ESP8266 framework for Homie, a lightweight MQTT convention for the IoT
 
 ## atom 
@@ -172,6 +173,7 @@
 
 ## automation 
 
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
 - [blopa/Resume-Builder](https://github.com/blopa/Resume-Builder) - Resume Builder is a free open-source project that allows anyone to easily maintain and build any kind of resume.
 
 ## awesome 
@@ -215,6 +217,7 @@
 
 ## bash 
 
+- [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -439,6 +442,7 @@
 
 ## framework 
 
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [fastify/benchmarks](https://github.com/fastify/benchmarks) - Fast and low overhead web framework fastify benchmarks.
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [homieiot/homie-esp8266](https://github.com/homieiot/homie-esp8266) - 💡 ESP8266 framework for Homie, a lightweight MQTT convention for the IoT
@@ -594,6 +598,7 @@
 
 ## iot 
 
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
 - [homieiot/homie-esp8266](https://github.com/homieiot/homie-esp8266) - 💡 ESP8266 framework for Homie, a lightweight MQTT convention for the IoT
 
 ## ipfs 
@@ -610,6 +615,7 @@
 
 ## javascript 
 
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
@@ -670,6 +676,7 @@
 
 ## linux 
 
+- [enzo1982/freac](https://github.com/enzo1982/freac) - The fre:ac audio converter project
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
@@ -696,6 +703,7 @@
 
 ## macos 
 
+- [enzo1982/freac](https://github.com/enzo1982/freac) - The fre:ac audio converter project
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
@@ -733,6 +741,7 @@
 
 ## music 
 
+- [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [anirbanmu/Vizl](https://github.com/anirbanmu/Vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
 - [ironsmile/euterpe](https://github.com/ironsmile/euterpe) - Self-hosted music streaming server 🎶 with RESTful API and Web interface. Think of it as your very own Spotify! ☁️🎧
 - [ericdaat/webradio-to-spotify](https://github.com/ericdaat/webradio-to-spotify) - Scraping songs playing on various classic rock radios and upload them to my Spotify Playlist.
@@ -831,6 +840,9 @@
 
 ## others 
 
+- [AASHISHAG/asr-german](https://github.com/AASHISHAG/asr-german) - Automatic Speech Recognition (ASR) - German
+- [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
+- [kawogi/matrix-digital-rain](https://github.com/kawogi/matrix-digital-rain) - Animation of the "Matrix Digital Rain" effect in the terminal
 - [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [M4444/TMatrix](https://github.com/M4444/TMatrix) - Terminal based replica of the digital rain from The Matrix.
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
@@ -1063,6 +1075,7 @@
 
 ## python 
 
+- [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [source-foundry/font-line](https://github.com/source-foundry/font-line) - OpenType vertical metrics reporting and font line spacing adjustment tool
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -1137,6 +1150,7 @@
 
 ## rust 
 
+- [Rustaceans/rust-cologne](https://github.com/Rustaceans/rust-cologne) - Website for Rust User Group Cologne
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [untitaker/hyperlink](https://github.com/untitaker/hyperlink) - Very fast link checker for CI.
@@ -1179,6 +1193,7 @@
 
 ## shell 
 
+- [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -1206,6 +1221,7 @@
 
 ## terminal 
 
+- [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -1262,6 +1278,7 @@
 
 ## web 
 
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [fastify/benchmarks](https://github.com/fastify/benchmarks) - Fast and low overhead web framework fastify benchmarks.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
@@ -1289,6 +1306,7 @@
 
 ## windows 
 
+- [enzo1982/freac](https://github.com/enzo1982/freac) - The fre:ac audio converter project
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
