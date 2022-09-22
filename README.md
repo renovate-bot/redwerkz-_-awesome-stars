@@ -59,6 +59,7 @@
 
 ## C 
 
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
 - [htacg/tidy-html5](https://github.com/htacg/tidy-html5) - The granddaddy of HTML tools, with support for modern standards
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
@@ -82,6 +83,7 @@
 
 ## C++ 
 
+- [enzo1982/freac](https://github.com/enzo1982/freac) - The fre:ac audio converter project
 - [M4444/TMatrix](https://github.com/M4444/TMatrix) - Terminal based replica of the digital rain from The Matrix.
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
@@ -181,6 +183,7 @@
 
 ## HTML 
 
+- [Rustaceans/rust-cologne](https://github.com/Rustaceans/rust-cologne) - Website for Rust User Group Cologne
 - [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
 - [MichaIng/DietPi-Docs](https://github.com/MichaIng/DietPi-Docs) - Source repository for the DietPi OS documentation
 - [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns) - All the patterns
@@ -219,6 +222,7 @@
 
 ## JavaScript 
 
+- [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [fastify/benchmarks](https://github.com/fastify/benchmarks) - Fast and low overhead web framework fastify benchmarks.
@@ -398,6 +402,7 @@
 
 ## Python 
 
+- [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [source-foundry/font-line](https://github.com/source-foundry/font-line) - OpenType vertical metrics reporting and font line spacing adjustment tool
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [ThereOHM/playlist_scraper](https://github.com/ThereOHM/playlist_scraper) - Python online webradio playlist scraper
@@ -435,6 +440,7 @@
 
 ## Rust 
 
+- [kawogi/matrix-digital-rain](https://github.com/kawogi/matrix-digital-rain) - Animation of the "Matrix Digital Rain" effect in the terminal
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [stevepryde/tauri-yew-demo](https://github.com/stevepryde/tauri-yew-demo) - Demo project for the Tauri + Yew tutorial
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -463,6 +469,8 @@
 
 ## Shell 
 
+- [AASHISHAG/asr-german](https://github.com/AASHISHAG/asr-german) - Automatic Speech Recognition (ASR) - German
+- [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [zbrox/zola-deploy-action](https://github.com/zbrox/zola-deploy-action) - Github action for building a Zola site and deploying to Github Pages
 - [prahaladramji/synology-prometheus](https://github.com/prahaladramji/synology-prometheus) - Setup script to install the prometheus stack on a synology NAS
 - [jboxberger/synology-gitlab-ce](https://github.com/jboxberger/synology-gitlab-ce) - This is a docker based GitLab CE package for Synology NAS server using the original gitlab/gitlab-ce image from hub.docker.com. The goal of this project is to lower the entry barrier for new GitLab us
@@ -496,6 +504,7 @@
 
 ## TypeScript 
 
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [Codibre/anypm](https://github.com/Codibre/anypm) - Your favorite package locally and npm ci in the cloud!
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
