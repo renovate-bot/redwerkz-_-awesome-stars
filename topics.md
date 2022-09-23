@@ -25,6 +25,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [compiler](#compiler)
+- [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [css](#css)
@@ -74,6 +75,7 @@
 - [javascript](#javascript)
 - [js](#js)
 - [json](#json)
+- [kubernetes](#kubernetes)
 - [laravel](#laravel)
 - [library](#library)
 - [linux](#linux)
@@ -97,6 +99,7 @@
 - [npm](#npm)
 - [open-source](#open-source)
 - [opengl](#opengl)
+- [operating-system](#operating-system)
 - [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
@@ -110,6 +113,7 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [qt](#qt)
+- [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
@@ -130,6 +134,7 @@
 - [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
+- [ubuntu](#ubuntu)
 - [vim](#vim)
 - [vue](#vue)
 - [web](#web)
@@ -153,6 +158,7 @@
 
 ## ansible 
 
+- [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 
 ## api 
@@ -257,6 +263,7 @@
 
 ## cli 
 
+- [IamFlowZ/ssh-bm](https://github.com/IamFlowZ/ssh-bm) - An ssh bookmarking program
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - Command-line fetch tools for system/other information
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
@@ -272,6 +279,10 @@
 ## compiler 
 
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+
+## computer-vision 
+
+- [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 
 ## continuous-integration 
 
@@ -297,7 +308,7 @@
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
 - [sparanoid/lightense-images](https://github.com/sparanoid/lightense-images) - A dependency-free pure JavaScript image zooming library less than 2 KB (gzipped). Inspired by tholman/intense-images
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
-- [Lightrix/astro-compress](https://github.com/Lightrix/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
+- [NIKOLARHRISTOV/astro-compress](https://github.com/NIKOLARHRISTOV/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 - [milligram/awesome-milligram](https://github.com/milligram/awesome-milligram) - A curated list of Milligram resources.
@@ -330,6 +341,7 @@
 
 ## deep-learning 
 
+- [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [sniklaus/3d-ken-burns](https://github.com/sniklaus/3d-ken-burns) - an implementation of 3D Ken Burns Effect from a Single Image using PyTorch
@@ -344,6 +356,7 @@
 
 ## devops 
 
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted DevOps Platform for Kubernetes
 - [undergroundwires/bump-everywhere](https://github.com/undergroundwires/bump-everywhere) - 🚀 Automate versioning, changelog creation, README updates and GitHub releases using GitHub Actions,npm, docker or bash.
 
 ## django 
@@ -352,6 +365,10 @@
 
 ## docker 
 
+- [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- [SonarSource/docker-sonarqube](https://github.com/SonarSource/docker-sonarqube) - :whale: SonarQube in Docker
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕 - we stand with 🇺🇦
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
@@ -403,6 +420,7 @@
 
 ## eslint 
 
+- [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
 - [emazzotta/lighthouse-badges](https://github.com/emazzotta/lighthouse-badges) - 🚦 Generate badges (shields.io) based on Lighthouse performance.
 
@@ -442,6 +460,7 @@
 
 ## framework 
 
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted DevOps Platform for Kubernetes
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [fastify/benchmarks](https://github.com/fastify/benchmarks) - Fast and low overhead web framework fastify benchmarks.
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
@@ -477,6 +496,7 @@
 
 ## go 
 
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
@@ -491,6 +511,9 @@
 
 ## golang 
 
+- [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [augmentable-dev/tickgit](https://github.com/augmentable-dev/tickgit) - Manage your repository's TODOs, tickets and checklists as config in your codebase.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
@@ -615,6 +638,9 @@
 
 ## javascript 
 
+- [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
+- [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
@@ -646,7 +672,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - 🎥 full-featured wrapper around YouTube's private API — reverse engineering InnerTube
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [Lightrix/astro-compress](https://github.com/Lightrix/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
+- [NIKOLARHRISTOV/astro-compress](https://github.com/NIKOLARHRISTOV/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
 - [bradyhouse/house](https://github.com/bradyhouse/house) - Proof of Concept and Research repository.
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -665,6 +691,11 @@
 
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 
+## kubernetes 
+
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted DevOps Platform for Kubernetes
+
 ## laravel 
 
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
@@ -676,6 +707,7 @@
 
 ## linux 
 
+- [armbian/community](https://github.com/armbian/community) - Armbian Linux Community Builds
 - [enzo1982/freac](https://github.com/enzo1982/freac) - The fre:ac audio converter project
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
@@ -791,6 +823,7 @@
 
 ## nodejs 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [fastify/benchmarks](https://github.com/fastify/benchmarks) - Fast and low overhead web framework fastify benchmarks.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
@@ -834,12 +867,26 @@
 
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 
+## operating-system 
+
+- [armbian/community](https://github.com/armbian/community) - Armbian Linux Community Builds
+
 ## osint 
 
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 
 ## others 
 
+- [antfu/sponsorkit](https://github.com/antfu/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
+- [thewizardplusplus/go-crawler](https://github.com/thewizardplusplus/go-crawler) - The library that implements crawling of all relative links for specified ones
+- [SynologyOpenSource/ExamplePackages](https://github.com/SynologyOpenSource/ExamplePackages) - 
+- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
+- [SimplyPrint/OctoPrint-SimplyPrint](https://github.com/SimplyPrint/OctoPrint-SimplyPrint) - Official SimplyPrint plugin
+- [SimplyPrint/SimplyPi](https://github.com/SimplyPrint/SimplyPi) - 
+- [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
+- [pimoroni/hyperpixel4](https://github.com/pimoroni/hyperpixel4) - Driver for the Pimoroni HyperPixel 4.0" Touchscreen Display
+- [axe312ger/sqip](https://github.com/axe312ger/sqip) - "SQIP" (pronounced \skwɪb\ like the non-magical folk of magical descent) is a  SVG-based LQIP technique.
+- [jdel/gosspks](https://github.com/jdel/gosspks) - A very simple Synology Package Server written in Go
 - [AASHISHAG/asr-german](https://github.com/AASHISHAG/asr-german) - Automatic Speech Recognition (ASR) - German
 - [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
 - [kawogi/matrix-digital-rain](https://github.com/kawogi/matrix-digital-rain) - Animation of the "Matrix Digital Rain" effect in the terminal
@@ -864,7 +911,7 @@
 - [JulianPrieber/llc-themes](https://github.com/JulianPrieber/llc-themes) - A list of themes for LittleLink Custom. Customize the look of your LittleLink Custom instance with themes. Themes allow you to change the look and feel of your site with a few clicks. Users can submit
 - [MagicLike/galaxy](https://github.com/MagicLike/galaxy) - A LittleLink Custom Theme. Galaxy is a dark mode only, minimalist theme. The background consists of a parallax pure CSS animation with a dark gradient and white contrasting elements.
 - [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) - 
-- [Lightrix/fresh-compress](https://github.com/Lightrix/fresh-compress) - 🗜️ FreshJS Compression utilities. Compress HTML, CSS, JavaScript and more.
+- [NIKOLARHRISTOV/fresh-compress](https://github.com/NIKOLARHRISTOV/fresh-compress) - 🗜️ FreshJS Compression utilities. Compress HTML, CSS, JavaScript and more.
 - [VSCodium/vscodium-insiders](https://github.com/VSCodium/vscodium-insiders) - binary releases of VS Code (Insiders) without MS branding/telemetry/licensing
 - [EndeavourOS-Community-Editions/worm](https://github.com/EndeavourOS-Community-Editions/worm) - Worm CE for EndeavourOS
 - [endeavouros-team/endeavouros-DE-fixes](https://github.com/endeavouros-team/endeavouros-DE-fixes) - fixes for DE vanilla installs
@@ -954,7 +1001,6 @@
 - [getdnsapi/getdns](https://github.com/getdnsapi/getdns) - A modern asynchronous DNS API  https://getdnsapi.net/
 - [Alex-Rose/fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli) - fb-messenger-cli, console Facebook messenger
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
-- [jdel/sspks](https://github.com/jdel/sspks) - A very simple Synology Package Server, reverse engineered from the official Synology package repository and SynoCommunity.
 - [redwerkz/set-game](https://github.com/redwerkz/set-game) - Set – Visual card game
 - [NickMRamirez/Proxy-Benchmarks](https://github.com/NickMRamirez/Proxy-Benchmarks) - Benchmarks for several proxies
 - [GoogleChromeLabs/postcss-jit-props](https://github.com/GoogleChromeLabs/postcss-jit-props) - A CSS custom property helper based on PostCSS. Supply a pool of variables and this plugin will add them to the stylesheet as they are used.
@@ -1075,6 +1121,8 @@
 
 ## python 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
+- [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video with a simple command line interface that is free and open source.
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [source-foundry/font-line](https://github.com/source-foundry/font-line) - OpenType vertical metrics reporting and font line spacing adjustment tool
@@ -1099,12 +1147,20 @@
 
 ## pytorch 
 
+- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model
+- [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
+- [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video with a simple command line interface that is free and open source.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [sniklaus/3d-ken-burns](https://github.com/sniklaus/3d-ken-burns) - an implementation of 3D Ken Burns Effect from a Single Image using PyTorch
 
 ## qt 
 
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
+
+## raspberry-pi 
+
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
+- [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
 
 ## react 
 
@@ -1150,6 +1206,7 @@
 
 ## rust 
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [Rustaceans/rust-cologne](https://github.com/Rustaceans/rust-cologne) - Website for Rust User Group Cologne
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -1248,6 +1305,7 @@
 
 ## typescript 
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
@@ -1266,6 +1324,13 @@
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [android-js/androidjs](https://github.com/android-js/androidjs) - Platform to build android app using node js
+
+## ubuntu 
+
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
+- [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
+- [armbian/community](https://github.com/armbian/community) - Armbian Linux Community Builds
+- [avafinger/bananapi-zero-ubuntu-base-minimal](https://github.com/avafinger/bananapi-zero-ubuntu-base-minimal) - BananaPi M2 Zero  - Ubuntu Focal Base Minimal Image (Experimental) - U-Boot 2017.09 / Kernel 4.18.y / Kernel 4.19.y / Kernel 4.20.y / Kernel 5.3.y / Kernel 5.6.y / Kernel 5.7.y / Kernel 5.11.y
 
 ## vim 
 
