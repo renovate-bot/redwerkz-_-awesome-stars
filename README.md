@@ -23,9 +23,12 @@
 - [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Mustache](#mustache)
 - [Nim](#nim)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
@@ -59,6 +62,7 @@
 
 ## C 
 
+- [SynologyOpenSource/ExamplePackages](https://github.com/SynologyOpenSource/ExamplePackages) - 
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
 - [htacg/tidy-html5](https://github.com/htacg/tidy-html5) - The granddaddy of HTML tools, with support for modern standards
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
@@ -121,6 +125,7 @@
 
 ## Dockerfile 
 
+- [SonarSource/docker-sonarqube](https://github.com/SonarSource/docker-sonarqube) - :whale: SonarQube in Docker
 - [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) - 
 - [michellabbe/docker-iperf3](https://github.com/michellabbe/docker-iperf3) - Dockerfile to setup a simple iperf3 server based on Alpine
 - [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) - A list of public iPerf3 servers...
@@ -139,6 +144,11 @@
 
 ## Go 
 
+- [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
+- [thewizardplusplus/go-crawler](https://github.com/thewizardplusplus/go-crawler) - The library that implements crawling of all relative links for specified ones
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- [jdel/gosspks](https://github.com/jdel/gosspks) - A very simple Synology Package Server written in Go
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure provisioned with Terraform
@@ -210,6 +220,7 @@
 
 ## Java 
 
+- [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [mdlu/set-game](https://github.com/mdlu/set-game) - backend for an online multiplayer version of the card game Set
 - [burgyl/SelfUpdatingApp](https://github.com/burgyl/SelfUpdatingApp) - An Android Application that can update itself if new releases in GitHub are available.
@@ -222,6 +233,7 @@
 
 ## JavaScript 
 
+- [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
@@ -329,6 +341,14 @@
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
+## Jinja 
+
+- [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
+
+## Jupyter Notebook 
+
+- [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
+
 ## Kotlin 
 
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to assist with reviewing Open Source Software dependencies.
@@ -341,7 +361,12 @@
 
 ## Makefile 
 
+- [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
 - [publysher/docker-hugo](https://github.com/publysher/docker-hugo) - Docker base image for static sites generated with Hugo
+
+## Mustache 
+
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted DevOps Platform for Kubernetes
 
 ## Nim 
 
@@ -354,6 +379,7 @@
 
 ## Others 
 
+- [armbian/community](https://github.com/armbian/community) - Armbian Linux Community Builds
 - [learnk8s/free-kubernetes](https://github.com/learnk8s/free-kubernetes) - List of Free Trials of Managed Kubernetes Services
 - [ddiiwoong/synology-prometheus](https://github.com/ddiiwoong/synology-prometheus) - Monitoring Synology NAS with snmp-exporter and prometheus
 - [winget-run/wingetdotrun](https://github.com/winget-run/wingetdotrun) - 📦 Finding winget packages made easy 🔍
@@ -387,7 +413,6 @@
 - [MagicLike/readme-typing-svg](https://github.com/MagicLike/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [filegator/filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
-- [jdel/sspks](https://github.com/jdel/sspks) - A very simple Synology Package Server, reverse engineered from the official Synology package repository and SynoCommunity.
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
@@ -402,6 +427,11 @@
 
 ## Python 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
+- [SimplyPrint/OctoPrint-SimplyPrint](https://github.com/SimplyPrint/OctoPrint-SimplyPrint) - Official SimplyPrint plugin
+- [SimplyPrint/SimplyPi](https://github.com/SimplyPrint/SimplyPi) - 
+- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model
+- [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video with a simple command line interface that is free and open source.
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [source-foundry/font-line](https://github.com/source-foundry/font-line) - OpenType vertical metrics reporting and font line spacing adjustment tool
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -440,6 +470,7 @@
 
 ## Rust 
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [kawogi/matrix-digital-rain](https://github.com/kawogi/matrix-digital-rain) - Animation of the "Matrix Digital Rain" effect in the terminal
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [stevepryde/tauri-yew-demo](https://github.com/stevepryde/tauri-yew-demo) - Demo project for the Tauri + Yew tutorial
@@ -469,6 +500,10 @@
 
 ## Shell 
 
+- [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
+- [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
+- [pimoroni/hyperpixel4](https://github.com/pimoroni/hyperpixel4) - Driver for the Pimoroni HyperPixel 4.0" Touchscreen Display
+- [avafinger/bananapi-zero-ubuntu-base-minimal](https://github.com/avafinger/bananapi-zero-ubuntu-base-minimal) - BananaPi M2 Zero  - Ubuntu Focal Base Minimal Image (Experimental) - U-Boot 2017.09 / Kernel 4.18.y / Kernel 4.19.y / Kernel 4.20.y / Kernel 5.3.y / Kernel 5.6.y / Kernel 5.7.y / Kernel 5.11.y
 - [AASHISHAG/asr-german](https://github.com/AASHISHAG/asr-german) - Automatic Speech Recognition (ASR) - German
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [zbrox/zola-deploy-action](https://github.com/zbrox/zola-deploy-action) - Github action for building a Zola site and deploying to Github Pages
@@ -504,6 +539,9 @@
 
 ## TypeScript 
 
+- [antfu/sponsorkit](https://github.com/antfu/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
+- [IamFlowZ/ssh-bm](https://github.com/IamFlowZ/ssh-bm) - An ssh bookmarking program
+- [axe312ger/sqip](https://github.com/axe312ger/sqip) - "SQIP" (pronounced \skwɪb\ like the non-magical folk of magical descent) is a  SVG-based LQIP technique.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [Codibre/anypm](https://github.com/Codibre/anypm) - Your favorite package locally and npm ci in the cloud!
@@ -514,7 +552,7 @@
 - [dev-xo/stripe-postgres-stack](https://github.com/dev-xo/stripe-postgres-stack) - An Open Source Remix template that integrates Stripe Subscriptions, Social Authentication, Testing and a few more features. PostgreSQL version. Deploys to Fly.io
 - [dev-xo/barebones-stack](https://github.com/dev-xo/barebones-stack) - A robust create-remix app, that applies best practices into a clean, batteries included template. SQLite version. Deploys to Fly.io
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
-- [Lightrix/fresh-compress](https://github.com/Lightrix/fresh-compress) - 🗜️ FreshJS Compression utilities. Compress HTML, CSS, JavaScript and more.
+- [NIKOLARHRISTOV/fresh-compress](https://github.com/NIKOLARHRISTOV/fresh-compress) - 🗜️ FreshJS Compression utilities. Compress HTML, CSS, JavaScript and more.
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
@@ -553,7 +591,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - 🎥 full-featured wrapper around YouTube's private API — reverse engineering InnerTube
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [Lightrix/astro-compress](https://github.com/Lightrix/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
+- [NIKOLARHRISTOV/astro-compress](https://github.com/NIKOLARHRISTOV/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
