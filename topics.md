@@ -360,7 +360,7 @@
 
 ## devops 
 
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted DevOps Platform for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
 - [undergroundwires/bump-everywhere](https://github.com/undergroundwires/bump-everywhere) - 🚀 Automate versioning, changelog creation, README updates and GitHub releases using GitHub Actions,npm, docker or bash.
 
 ## django 
@@ -465,7 +465,7 @@
 
 ## framework 
 
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted DevOps Platform for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [fastify/benchmarks](https://github.com/fastify/benchmarks) - Fast and low overhead web framework fastify benchmarks.
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
@@ -585,6 +585,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
+- [eshaz/icecast-metadata-js](https://github.com/eshaz/icecast-metadata-js) - Browser and NodeJS packages for playing and reading Icecast compatible streaming audio with realtime metadata updates.
 - [Sav22999/common-voice-android](https://github.com/Sav22999/common-voice-android) - Repository of "CV Project" app. It's an unofficial app for Mozilla Common Voice, which permits you to contribute to this project via your device.
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [mediathekview/MediathekView](https://github.com/mediathekview/MediathekView) - Das Programm MediathekView durchsucht die Online-Mediatheken verschiedener Sender
@@ -705,7 +706,7 @@
 ## kubernetes 
 
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted DevOps Platform for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
 
 ## laravel 
 
