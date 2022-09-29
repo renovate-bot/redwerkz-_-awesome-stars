@@ -64,6 +64,7 @@
 
 ## C 
 
+- [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
 - [SynologyOpenSource/ExamplePackages](https://github.com/SynologyOpenSource/ExamplePackages) - 
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
 - [htacg/tidy-html5](https://github.com/htacg/tidy-html5) - The granddaddy of HTML tools, with support for modern standards
@@ -150,6 +151,8 @@
 
 ## Go 
 
+- [cactus/go-camo](https://github.com/cactus/go-camo) - A secure image proxy server
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [wyattjoh/ydns-updater](https://github.com/wyattjoh/ydns-updater) - A DNS Updater client written in Go for yDNS
@@ -246,6 +249,8 @@
 
 ## JavaScript 
 
+- [dtube/avalon](https://github.com/dtube/avalon) - Blockchain for social distribution
+- [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
@@ -401,6 +406,8 @@
 
 ## Others 
 
+- [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc.
+- [TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte) - ⚡ A curated list of awesome Svelte resources
 - [Iosevka-Mayukai/Iosevka-Mayukai](https://github.com/Iosevka-Mayukai/Iosevka-Mayukai) - Font based on Iosevka Custom Build, with combination from Iosevka SS04 Menlo, SS07 Monaco,  SS09 Source Code Pro, SS12 Ubuntu Mono, SS14 Jetbrains Mono, Hack Style, and some Nerd Font Patching.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [armbian/community](https://github.com/armbian/community) - Armbian Linux Community Builds
@@ -451,6 +458,7 @@
 
 ## Python 
 
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [gooofy/zamia-speech](https://github.com/gooofy/zamia-speech) - Open tools and data for cloudless automatic speech recognition
 - [reteps/freenom-register](https://github.com/reteps/freenom-register) - Register a freenom domain through the command line.
 - [yanxiu0614/subdomain3](https://github.com/yanxiu0614/subdomain3) - A new generation of tool for discovering subdomains( ip , cdn and so on)
@@ -493,6 +501,7 @@
 
 ## Ruby 
 
+- [bronson/geolocal](https://github.com/bronson/geolocal) - Geocode an IP address with a single if statement.  No network access, no context switches, no waiting.
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
@@ -501,6 +510,8 @@
 
 ## Rust 
 
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
+- [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [cdown/mack](https://github.com/cdown/mack) - An opinionated, fast music organiser.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 - [hugopeixoto/mail-tools](https://github.com/hugopeixoto/mail-tools) - Collection of tools to handle email backup and analysis
@@ -538,6 +549,8 @@
 
 ## Shell 
 
+- [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
+- [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
 - [pimoroni/hyperpixel4](https://github.com/pimoroni/hyperpixel4) - Driver for the Pimoroni HyperPixel 4.0" Touchscreen Display
@@ -577,6 +590,11 @@
 
 ## TypeScript 
 
+- [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
+- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
+- [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
+- [novacbn/svelte-in-motion](https://github.com/novacbn/svelte-in-motion) - Remotion clone, but in Svelte!
+- [amoutonbrady/solid-heroicons](https://github.com/amoutonbrady/solid-heroicons) - 
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [denosaurs/mod.land](https://github.com/denosaurs/mod.land) - 📦 Pretty subdomains for you deno project
@@ -595,7 +613,7 @@
 - [dev-xo/stripe-postgres-stack](https://github.com/dev-xo/stripe-postgres-stack) - An Open Source Remix template that integrates Stripe Subscriptions, Social Authentication, Testing and a few more features. PostgreSQL version. Deploys to Fly.io
 - [dev-xo/barebones-stack](https://github.com/dev-xo/barebones-stack) - A robust create-remix app, that applies best practices into a clean, batteries included template. SQLite version. Deploys to Fly.io
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
-- [nikolarHRISTOV/FRESHcompress](https://github.com/nikolarHRISTOV/FRESHcompress) - 🗜️ FreshJS Compression utilities. Compress HTML, CSS, JavaScript and more.
+- [nikolarhristov/fresh-compress](https://github.com/nikolarhristov/fresh-compress) - 🗜️ FreshJS Compression utilities. Compress HTML, CSS, JavaScript and more.
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
@@ -633,7 +651,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - 🎥 full-featured wrapper around YouTube's private API — reverse engineering InnerTube
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [nikolarHRISTOV/ASTROcompress](https://github.com/nikolarHRISTOV/ASTROcompress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
+- [nikolarhristov/astro-compress](https://github.com/nikolarhristov/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
@@ -648,6 +666,7 @@
 
 ## Vue 
 
+- [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
 - [tutaru99/Internet-Radio-Player-Vue](https://github.com/tutaru99/Internet-Radio-Player-Vue) - Internet Radio Player with an Audio Visualizer made using VueJS, Vuetify & Howler.JS frameworks. The Player has a bunch of radio stations. Check out the demo below.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 
