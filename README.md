@@ -249,6 +249,12 @@
 
 ## JavaScript 
 
+- [redwerkz/buttr.fyi](https://github.com/redwerkz/buttr.fyi) - butterfy 🌸created at the Rethink Journalism 21 Hackathon
+- [aUnicornDev/tabsMonster](https://github.com/aUnicornDev/tabsMonster) - A Chrome extension to keep a tab on your Browser Tabs
+- [handshake-org/hsd](https://github.com/handshake-org/hsd) - Handshake Daemon & Full Node
+- [kyokan/bob-wallet](https://github.com/kyokan/bob-wallet) - Bob Wallet is a GUI for DNS Record Management and Name Auctions on Handshake. It includes an integrated full node: hsd
+- [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
+- [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) - 🕸 Simple, robust, BitTorrent DHT implementation
 - [dtube/avalon](https://github.com/dtube/avalon) - Blockchain for social distribution
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
@@ -367,10 +373,12 @@
 
 ## Jinja 
 
+- [keybase/book-content](https://github.com/keybase/book-content) - 
 - [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
 
 ## Jupyter Notebook 
 
+- [mikhailklassen/Mining-the-Social-Web-3rd-Edition](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition) - The official online compendium for Mining the Social Web, 3rd Edition (O'Reilly, 2018)
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 
@@ -406,6 +414,8 @@
 
 ## Others 
 
+- [alrra/browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos
+- [caesiumstudio/csBooks-updates](https://github.com/caesiumstudio/csBooks-updates) - csBooks is the best epub reader, pdf reader, mobi book reader and djvu reader for windows, linux and mac os. It solves your problems if you need ebook manager, library manager on linux, best comic boo
 - [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc.
 - [TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte) - ⚡ A curated list of awesome Svelte resources
 - [Iosevka-Mayukai/Iosevka-Mayukai](https://github.com/Iosevka-Mayukai/Iosevka-Mayukai) - Font based on Iosevka Custom Build, with combination from Iosevka SS04 Menlo, SS07 Monaco,  SS09 Source Code Pro, SS12 Ubuntu Mono, SS14 Jetbrains Mono, Hack Style, and some Nerd Font Patching.
@@ -501,6 +511,7 @@
 
 ## Ruby 
 
+- [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup GMail (or other IMAP) accounts to disk
 - [bronson/geolocal](https://github.com/bronson/geolocal) - Geocode an IP address with a single if statement.  No network access, no context switches, no waiting.
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
@@ -510,6 +521,7 @@
 
 ## Rust 
 
+- [twilco/kosmonaut](https://github.com/twilco/kosmonaut) - A web browser engine for the space age :rocket:
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [cdown/mack](https://github.com/cdown/mack) - An opinionated, fast music organiser.
