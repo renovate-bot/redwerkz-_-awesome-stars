@@ -663,7 +663,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - 🎥 full-featured wrapper around YouTube's private API — reverse engineering InnerTube
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [nikolarhristov/astro-compress](https://github.com/nikolarhristov/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
+- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
