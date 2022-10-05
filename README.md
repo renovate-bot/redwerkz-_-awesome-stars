@@ -105,6 +105,7 @@
 
 ## CSS 
 
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
 - [UniversalGUI/UGUI](https://github.com/UniversalGUI/UGUI) - Universal Graphical User Interface
 - [domaindumper/domain-statistics](https://github.com/domaindumper/domain-statistics) - Domain Dumper daily domains states, You can get states of all registered domains from 1 January 1990. We cover 900 plus zone and update on every 24 hours
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -151,6 +152,8 @@
 
 ## Go 
 
+- [twiny/spidy](https://github.com/twiny/spidy) - Domain names collector - Crawl website and find domain name with their availability status.
+- [imthaghost/goclone](https://github.com/imthaghost/goclone) - Website Cloner - Utilizes powerful Go routines to clone websites to your computer within seconds.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [cactus/go-camo](https://github.com/cactus/go-camo) - A secure image proxy server
@@ -251,6 +254,8 @@
 
 ## JavaScript 
 
+- [jasondavies/d3-cloud](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
+- [axelmy318/react-github-scraper](https://github.com/axelmy318/react-github-scraper) - Provides multiple customizable components to automatically load and display GitHub repositories data by just passing the targeted repository!
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [redwerkz/buttr.fyi](https://github.com/redwerkz/buttr.fyi) - butterfy 🌸created at the Rethink Journalism 21 Hackathon
@@ -394,6 +399,7 @@
 
 ## Lua 
 
+- [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [xoac/nvim](https://github.com/xoac/nvim) - Simple and ready configuration for neovim(nvim) with LSP. Inited with rust and go support
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 
@@ -418,6 +424,7 @@
 
 ## Others 
 
+- [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
 - [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - supports Intel CPU/GPU from 4th Gen (Haswell) or AMD Ryzen
 - [alrra/browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos
 - [caesiumstudio/csBooks-updates](https://github.com/caesiumstudio/csBooks-updates) - csBooks is the best epub reader, pdf reader, mobi book reader and djvu reader for windows, linux and mac os. It solves your problems if you need ebook manager, library manager on linux, best comic boo
@@ -473,6 +480,9 @@
 
 ## Python 
 
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+- [bundesAPI/deutschland](https://github.com/bundesAPI/deutschland) - Die wichtigsten APIs Deutschlands in einem Python Paket.
+- [Faldrian/bandcamp-scraper](https://github.com/Faldrian/bandcamp-scraper) - Will scrape bandcamp for Creative Commons music
 - [blockdiag/nwdiag](https://github.com/blockdiag/nwdiag) - 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [gooofy/zamia-speech](https://github.com/gooofy/zamia-speech) - Open tools and data for cloudless automatic speech recognition
@@ -609,6 +619,7 @@
 
 ## TypeScript 
 
+- [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify
 - [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
@@ -629,8 +640,8 @@
 - [myxvisual/react-uwp](https://github.com/myxvisual/react-uwp) - 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design.
 - [digimezzo/dopamine](https://github.com/digimezzo/dopamine) - The audio player that keeps it simple
 - [open-source-labs/vno](https://github.com/open-source-labs/vno) - a build tool for compiling and bundling Vue single-file components
-- [dev-xo/stripe-postgres-stack](https://github.com/dev-xo/stripe-postgres-stack) - An Open Source Remix template that integrates Stripe Subscriptions, Social Authentication, Testing and a few more features. PostgreSQL version. Deploys to Fly.io
-- [dev-xo/barebones-stack](https://github.com/dev-xo/barebones-stack) - A robust create-remix app, that applies best practices into a clean, batteries included template. SQLite version. Deploys to Fly.io
+- [dev-xo/stripe-postgres-stack](https://github.com/dev-xo/stripe-postgres-stack) - An open source Remix Template that integrates Stripe Subscriptions, Social Authentication, Testing and a few more features. Javascript Supported. PostgreSQL version. Deploys to Fly.io
+- [dev-xo/barebones-stack](https://github.com/dev-xo/barebones-stack) - A testing-ready create-remix app, that applies best practices into a clean, batteries included template. Javascript Supported. SQLite version. Deploys to Fly.io
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [nikolarhristov/fresh-compress](https://github.com/nikolarhristov/fresh-compress) - 🗜️ FreshJS Compression utilities. Compress HTML, CSS, JavaScript and more.
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
