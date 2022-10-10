@@ -197,6 +197,7 @@
 
 ## awesome 
 
+- [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
 - [TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte) - ⚡ A curated list of awesome Svelte resources
 - [willin/js.cool](https://github.com/willin/js.cool) - 为国人开源项目提供免费的子域名（自 2020 年 8 月起），现在支持 Vercel 啦！
@@ -212,6 +213,7 @@
 
 ## awesome-list 
 
+- [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
 - [TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte) - ⚡ A curated list of awesome Svelte resources
 - [willin/js.cool](https://github.com/willin/js.cool) - 为国人开源项目提供免费的子域名（自 2020 年 8 月起），现在支持 Vercel 啦！
@@ -333,6 +335,7 @@
 
 ## css 
 
+- [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
 - [novacbn/svelte-in-motion](https://github.com/novacbn/svelte-in-motion) - Remotion clone, but in Svelte!
 - [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
@@ -476,6 +479,7 @@
 
 ## eslint 
 
+- [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
 - [emazzotta/lighthouse-badges](https://github.com/emazzotta/lighthouse-badges) - 🚦 Generate badges (shields.io) based on Lighthouse performance.
@@ -673,6 +677,7 @@
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
 - [therealsujitk/vercel-badge](https://github.com/therealsujitk/vercel-badge) - Include a Vercel deployment badge in your README.md file.
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
 - [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
@@ -735,6 +740,7 @@
 
 ## iot 
 
+- [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
 - [homieiot/homie-esp8266](https://github.com/homieiot/homie-esp8266) - 💡 ESP8266 framework for Homie, a lightweight MQTT convention for the IoT
 
@@ -752,6 +758,7 @@
 
 ## javascript 
 
+- [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify
 - [axelmy318/react-github-scraper](https://github.com/axelmy318/react-github-scraper) - Provides multiple customizable components to automatically load and display GitHub repositories data by just passing the targeted repository!
@@ -834,6 +841,7 @@
 
 ## linux 
 
+- [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [armbian/community](https://github.com/armbian/community) - Armbian Linux Community Builds
 - [enzo1982/freac](https://github.com/enzo1982/freac) - The fre:ac audio converter project
@@ -961,6 +969,7 @@
 
 ## nodejs 
 
+- [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [axelmy318/react-github-scraper](https://github.com/axelmy318/react-github-scraper) - Provides multiple customizable components to automatically load and display GitHub repositories data by just passing the targeted repository!
 - [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) - 🕸 Simple, robust, BitTorrent DHT implementation
@@ -1024,6 +1033,14 @@
 
 ## others 
 
+- [coder/tailscale](https://github.com/coder/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+- [silnrsi/font-andika](https://github.com/silnrsi/font-andika) - A font family designed especially for literacy use, taking into account the needs of beginning readers
+- [erichard/awesome-gdpr](https://github.com/erichard/awesome-gdpr) - A curated list of GDPR-compliant tools for websites creators
+- [agorakit/agorakit](https://github.com/agorakit/agorakit) - Organization tool for citizen's collectives
+- [Winbee/SynoCI](https://github.com/Winbee/SynoCI) - A guide to install a continuous integration infrastructure on a NAS Synology
+- [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
+- [fruzyna/web-ide-manager](https://github.com/fruzyna/web-ide-manager) - Web server and scripts to manage code-server and jupyter instances.
+- [raphaelbastide/ofont](https://github.com/raphaelbastide/ofont) - Listing fonts? YEAAHRR.
 - [amzn/style-dictionary](https://github.com/amzn/style-dictionary) - A build system for creating cross-platform styles.
 - [StoicDreams/RustWebUI](https://github.com/StoicDreams/RustWebUI) - 
 - [StoicDreams/BlazorUI](https://github.com/StoicDreams/BlazorUI) - UI Framework and component library for Blazor based Websites and Maui projects.
@@ -1108,7 +1125,7 @@
 - [JulianPrieber/llc-themes](https://github.com/JulianPrieber/llc-themes) - A list of themes for LittleLink Custom. Customize the look of your LittleLink Custom instance with themes. Themes allow you to change the look and feel of your site with a few clicks. Users can submit
 - [MagicLike/galaxy](https://github.com/MagicLike/galaxy) - A LittleLink Custom Theme. Galaxy is a dark mode only, minimalist theme. The background consists of a parallax pure CSS animation with a dark gradient and white contrasting elements.
 - [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) - 
-- [nikolarhristov/fresh-compress](https://github.com/nikolarhristov/fresh-compress) - 🗜️ FreshJS Compression utilities. Compress HTML, CSS, JavaScript and more.
+- [nikolaxhristov/fresh-compress](https://github.com/nikolaxhristov/fresh-compress) - 🗜️ FreshJS Compression utilities. Compress HTML, CSS, JavaScript and more.
 - [VSCodium/vscodium-insiders](https://github.com/VSCodium/vscodium-insiders) - binary releases of VS Code (Insiders) without MS branding/telemetry/licensing
 - [EndeavourOS-Community-Editions/worm](https://github.com/EndeavourOS-Community-Editions/worm) - Worm CE for EndeavourOS
 - [endeavouros-team/endeavouros-DE-fixes](https://github.com/endeavouros-team/endeavouros-DE-fixes) - fixes for DE vanilla installs
@@ -1415,6 +1432,7 @@
 
 ## rust 
 
+- [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs!
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 - [xoac/opinionated-rust-template](https://github.com/xoac/opinionated-rust-template) - Start rust project on the right foot with less than minute with cargo-generate and this template!
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
