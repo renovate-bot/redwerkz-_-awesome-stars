@@ -140,6 +140,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-fleet](https://github.com/linuxserver/docker-fleet) - 
 - [emibcn/badge-action](https://github.com/emibcn/badge-action) - Create a badge using GitHub Actions and GitHub Workflow CPU time (no 3rd parties servers)
 - [SonarSource/docker-sonarqube](https://github.com/SonarSource/docker-sonarqube) - :whale: SonarQube in Docker
 - [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) - 
@@ -160,6 +161,9 @@
 
 ## Go 
 
+- [nrdcg/porkbun](https://github.com/nrdcg/porkbun) - Go library for accessing the Porkdun API.
+- [pmaterer/goporkbun](https://github.com/pmaterer/goporkbun) - Go client for Porkbun API
+- [thestrukture/IDE](https://github.com/thestrukture/IDE) - A Go code editor. With debugging and Autocomplete. 一个 Go 代码编辑器，具有 DEBUGGING 和 AUTOCOMPLETE
 - [coder/tailscale](https://github.com/coder/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -271,6 +275,11 @@
 
 ## JavaScript 
 
+- [CulturalMe/meteor-slingshot](https://github.com/CulturalMe/meteor-slingshot) - Upload files directly to AWS S3, Google Cloud Storage and others in meteor
+- [fazt/github-client](https://github.com/fazt/github-client) - A Frontend Application using Pure Javascript and Github API
+- [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer) - Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
+- [jsfiddle/togetherjs](https://github.com/jsfiddle/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
+- [meteor/blaze](https://github.com/meteor/blaze) - :fire: Meteor Blaze is a powerful library for creating live-updating user interfaces
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [Thomas2500/uDomainFlag](https://github.com/Thomas2500/uDomainFlag) - uDomainFlag is a browser extension which shows the country flag of the currently visible website
@@ -429,6 +438,7 @@
 
 ## Lua 
 
+- [David-Else/developer-workstation-setup-script](https://github.com/David-Else/developer-workstation-setup-script) - Post-install script for Fedora and RHEL 9 clones to create your ultimate development environment
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [xoac/nvim](https://github.com/xoac/nvim) - Simple and ready configuration for neovim(nvim) with LSP. Inited with rust and go support
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
@@ -444,6 +454,7 @@
 
 ## Mustache 
 
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
 
 ## Nim 
@@ -458,6 +469,8 @@
 
 ## Others 
 
+- [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
+- [uhub/awesome-shell](https://github.com/uhub/awesome-shell) - A curated list of awesome Shell frameworks, libraries and software.
 - [inwx/awesome-inwx](https://github.com/inwx/awesome-inwx) - A curated list of helpful INWX resources and community projects.
 - [chinchang/extensions-4-every-developer](https://github.com/chinchang/extensions-4-every-developer) - A list of extensions that every web developer must have
 - [dictcp/awesome-git](https://github.com/dictcp/awesome-git) - A curated list of amazingly awesome Git tools, resources and shiny things
@@ -586,6 +599,8 @@
 
 ## Rust 
 
+- [spk/rust-w3c_validators](https://github.com/spk/rust-w3c_validators) - Rust wrapper for the World Wide Web Consortium's online validation services
+- [muchobien/porkbun-rs](https://github.com/muchobien/porkbun-rs) - An Porkbun API client written in rust.
 - [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
 - [StoicDreams/RustWebUI](https://github.com/StoicDreams/RustWebUI) - 
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
@@ -630,6 +645,9 @@
 
 ## Shell 
 
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
+- [raylee/tldr-sh-client](https://github.com/raylee/tldr-sh-client) - Simplified and community-driven man pages
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
