@@ -20,6 +20,7 @@
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
+- [Haskell](#haskell)
 - [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -43,6 +44,7 @@
 - [SCSS](#scss)
 - [Scheme](#scheme)
 - [Shell](#shell)
+- [Smarty](#smarty)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
@@ -54,7 +56,6 @@
 
 ## Astro 
 
-- [JulianCataldo/web-garden](https://github.com/JulianCataldo/web-garden) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS, JS, TS… Configurations features ESLint, Prettier, Stylelint…
 - [t3-oss/init.tips](https://github.com/t3-oss/init.tips) - 
 - [Destiner/astro-analytics](https://github.com/Destiner/astro-analytics) - Astro components for site analytics
 - [christopher-kapic/astro-blanding](https://github.com/christopher-kapic/astro-blanding) - A template for agencies/businesses to get a landing page/website built quickly using Astro, Svelte, and TailwindCSS
@@ -146,6 +147,7 @@
 
 ## Dockerfile 
 
+- [BretFisher/github-actions-templates](https://github.com/BretFisher/github-actions-templates) - 
 - [linuxserver/docker-fleet](https://github.com/linuxserver/docker-fleet) - 
 - [emibcn/badge-action](https://github.com/emibcn/badge-action) - Create a badge using GitHub Actions and GitHub Workflow CPU time (no 3rd parties servers)
 - [SonarSource/docker-sonarqube](https://github.com/SonarSource/docker-sonarqube) - :whale: SonarQube in Docker
@@ -167,6 +169,8 @@
 
 ## Go 
 
+- [pulumi/pulumi-kubernetes-crds](https://github.com/pulumi/pulumi-kubernetes-crds) - Typed CustomResources for Kubernetes Operators
+- [toboshii/hajimari](https://github.com/toboshii/hajimari) - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [nrdcg/porkbun](https://github.com/nrdcg/porkbun) - Go library for accessing the Porkdun API.
 - [pmaterer/goporkbun](https://github.com/pmaterer/goporkbun) - Go client for Porkbun API
@@ -261,6 +265,10 @@
 - [homieiot/homie-esp8266](https://github.com/homieiot/homie-esp8266) - 💡 ESP8266 framework for Homie, a lightweight MQTT convention for the IoT
 - [spf13/instant](https://github.com/spf13/instant) - Instant theme for Hugo (derived from Black Tie Instant)
 
+## Haskell 
+
+- [smallhadroncollider/brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
+
 ## Inno Setup 
 
 - [source-foundry/Hack-windows-installer](https://github.com/source-foundry/Hack-windows-installer) - A Windows installer for the Hack typeface
@@ -283,6 +291,8 @@
 
 ## JavaScript 
 
+- [LekoArts/gatsby-starter-portfolio-jodie](https://github.com/LekoArts/gatsby-starter-portfolio-jodie) - Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [redwerkz/buttr.fyi](https://github.com/redwerkz/buttr.fyi) - butterfy 🌸created at the Rethink Journalism 21 Hackathon
 - [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 - [CulturalMe/meteor-slingshot](https://github.com/CulturalMe/meteor-slingshot) - Upload files directly to AWS S3, Google Cloud Storage and others in meteor
@@ -527,6 +537,7 @@
 
 ## PHP 
 
+- [femto-code/Raspberry-Pi-Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Web-based dashboard interface to inspect Raspberry Pi hardware and software with no extra software required.
 - [agorakit/agorakit](https://github.com/agorakit/agorakit) - Organization tool for citizen's collectives
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕 - we stand with 🇺🇦
 - [MagicLike/readme-typing-svg](https://github.com/MagicLike/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
@@ -609,6 +620,7 @@
 
 ## Rust 
 
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [spk/rust-w3c_validators](https://github.com/spk/rust-w3c_validators) - Rust wrapper for the World Wide Web Consortium's online validation services
 - [muchobien/porkbun-rs](https://github.com/muchobien/porkbun-rs) - An Porkbun API client written in rust.
@@ -656,6 +668,8 @@
 
 ## Shell 
 
+- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
+- [carloscuesta/materialshell](https://github.com/carloscuesta/materialshell) - A material design theme for your terminal. ✨
 - [PowerDNS/pdns-builder](https://github.com/PowerDNS/pdns-builder) - Infrastructure for creating Dockerfiles for package building
 - [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -694,6 +708,10 @@
 - [whiteinge/ok.sh](https://github.com/whiteinge/ok.sh) - A Bourne shell GitHub API client library focused on interfacing with shell scripts
 - [onli/izulu](https://github.com/onli/izulu) - weather-aware desktop background images
 
+## Smarty 
+
+- [isaron/gitea-kubernetes](https://github.com/isaron/gitea-kubernetes) - Setup Gitea on Kubernetes
+
 ## Svelte 
 
 - [ravenclaw900/DietPi-Dashboard](https://github.com/ravenclaw900/DietPi-Dashboard) - A lightweight, standalone web dashboard for DietPi
@@ -703,7 +721,10 @@
 
 ## TypeScript 
 
+- [magidoc-org/magidoc](https://github.com/magidoc-org/magidoc) - Autogenerate static GraphQL API documentation
+- [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion
 - [contributor-assistant/contributor-assistant](https://github.com/contributor-assistant/contributor-assistant) - The Contributor Assistant supports and simplifies Open Source collaboration.
+- [JulianCataldo/web-garden](https://github.com/JulianCataldo/web-garden) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS, JS, TS… Configurations features ESLint, Prettier, Stylelint…
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [andstor/file-existence-action](https://github.com/andstor/file-existence-action) - :file_folder: :octocat: GitHub Action to check for file existence
 - [deepsourcelabs/shifty](https://github.com/deepsourcelabs/shifty) - Shifty is a tiny zero-dependency secrets generator, built for the web using TypeScript.
