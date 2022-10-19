@@ -1159,6 +1159,7 @@
 
 ## others 
 
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [pulumi/pulumi-kubernetes-crds](https://github.com/pulumi/pulumi-kubernetes-crds) - Typed CustomResources for Kubernetes Operators
 - [BretFisher/github-actions-templates](https://github.com/BretFisher/github-actions-templates) - 
 - [smallhadroncollider/brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
