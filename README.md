@@ -241,6 +241,7 @@
 
 ## HTML 
 
+- [Anon-Planet/thgtoa](https://github.com/Anon-Planet/thgtoa) - The definitive guide for online anonymity and OpSec
 - [ct-Open-Source/team-container](https://github.com/ct-Open-Source/team-container) - A collection of containers to prepare a server for collaboration.
 - [retest/recheck-web](https://github.com/retest/recheck-web) - recheck for web apps – change comparison tool with local Golden Masters, Git-like ignore syntax and "Unbreakable Selenium" tests.
 - [fruzyna/web-ide-manager](https://github.com/fruzyna/web-ide-manager) - Web server and scripts to manage code-server and jupyter instances.
@@ -528,7 +529,7 @@
 - [tokotype/generate-webfont](https://github.com/tokotype/generate-webfont) - A guide to installing woff & woff2 using CLI converter
 - [SPGoding/renovate-config-gitmoji](https://github.com/SPGoding/renovate-config-gitmoji) - A Gitmoji compatible Renovate config.
 - [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [volumio/platform-nanopi](https://github.com/volumio/platform-nanopi) - 
 - [joetek/aws-ip-ranges-json](https://github.com/joetek/aws-ip-ranges-json) - AWS IP Ranges History Tracker Amazon - AWS provides a list of IP Addresses used by their various services through a published ip-ranges.json file. This Git repository tracks this file so that changes 
 - [kalbir/personal-awesome-list](https://github.com/kalbir/personal-awesome-list) - To help find that great article I wanted to share with you
