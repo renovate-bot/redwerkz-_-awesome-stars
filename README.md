@@ -674,6 +674,7 @@
 
 ## Shell 
 
+- [phusion/holy-build-box](https://github.com/phusion/holy-build-box) - System for building cross-distribution Linux binaries
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [carloscuesta/materialshell](https://github.com/carloscuesta/materialshell) - A material design theme for your terminal. ✨
 - [PowerDNS/pdns-builder](https://github.com/PowerDNS/pdns-builder) - Infrastructure for creating Dockerfiles for package building
