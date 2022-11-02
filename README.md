@@ -753,7 +753,7 @@
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [novacbn/svelte-in-motion](https://github.com/novacbn/svelte-in-motion) - Remotion clone, but in Svelte!
 - [amoutonbrady/solid-heroicons](https://github.com/amoutonbrady/solid-heroicons) - 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [denosaurs/mod.land](https://github.com/denosaurs/mod.land) - 📦 Pretty subdomains for you deno project
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
