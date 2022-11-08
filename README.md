@@ -246,7 +246,7 @@
 ## HTML 
 
 - [abrahamcalf/languages.abranhe.com](https://github.com/abrahamcalf/languages.abranhe.com) - Home of languages.abranhe.com the Programming Languages Logos Website
-- [Anon-Planet/thgtoa](https://github.com/Anon-Planet/thgtoa) - The definitive guide for online anonymity and OpSec
+- [Anon-Planet/thgtoa](https://github.com/Anon-Planet/thgtoa) - The comprehensive guide for online anonymity and OpSec
 - [ct-Open-Source/team-container](https://github.com/ct-Open-Source/team-container) - A collection of containers to prepare a server for collaboration.
 - [retest/recheck-web](https://github.com/retest/recheck-web) - recheck for web apps – change comparison tool with local Golden Masters, Git-like ignore syntax and "Unbreakable Selenium" tests.
 - [fruzyna/web-ide-manager](https://github.com/fruzyna/web-ide-manager) - Web server and scripts to manage code-server and jupyter instances.
