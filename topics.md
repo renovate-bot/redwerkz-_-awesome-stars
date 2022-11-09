@@ -1194,6 +1194,7 @@
 
 ## others 
 
+- [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [paabloLC/bitnami-docker](https://github.com/paabloLC/bitnami-docker) - Learn more about Bitnami's Docker images
 - [waltzHao/SVG_Circle](https://github.com/waltzHao/SVG_Circle) - 
 - [gregjacobs/js-to-ts-converter](https://github.com/gregjacobs/js-to-ts-converter) - Small utility to fix common js-&gt;ts issues in order to assist in migrating a codebase
