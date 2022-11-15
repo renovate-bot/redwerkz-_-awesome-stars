@@ -396,7 +396,7 @@
 - [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
 - [filipelinhares/ress](https://github.com/filipelinhares/ress) - 🚿 A modern CSS reset
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-- [master-co/css-language-service](https://github.com/master-co/css-language-service) - Master CSS language service and syntax highlighting for Visual Studio Code
+- [master-co/css-language-service](https://github.com/master-co/css-language-service) - Master CSS language service for Visual Studio Code, including Code completion, syntax highlighting, CSS hover preview, inline color decorators
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
 - [heybokeh/pollen](https://github.com/heybokeh/pollen) - The CSS variables build system
 - [css/csso](https://github.com/css/csso) - CSS minifier with structural optimizations
@@ -432,6 +432,7 @@
 
 ## database 
 
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [Budibase/plugins](https://github.com/Budibase/plugins) - A curated list of Budibase plugins 🔌 including data sources and components.
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
@@ -648,6 +649,7 @@
 
 ## go 
 
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [visualfc/liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [nrdcg/porkbun](https://github.com/nrdcg/porkbun) - Go library for accessing the Porkdun API.
 - [thestrukture/IDE](https://github.com/thestrukture/IDE) - A Go code editor. With debugging and Autocomplete. 一个 Go 代码编辑器，具有 DEBUGGING 和 AUTOCOMPLETE
@@ -983,6 +985,7 @@
 
 ## linux 
 
+- [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders - all for free! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll f
 - [Anon-Planet/thgtoa](https://github.com/Anon-Planet/thgtoa) - The comprehensive guide for online anonymity and OpSec
 - [David-Else/developer-workstation-setup-script](https://github.com/David-Else/developer-workstation-setup-script) - Post-install script for Fedora and RHEL 9 clones to create your ultimate development environment
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -1020,6 +1023,7 @@
 
 ## macos 
 
+- [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders - all for free! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll f
 - [Anon-Planet/thgtoa](https://github.com/Anon-Planet/thgtoa) - The comprehensive guide for online anonymity and OpSec
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -1194,6 +1198,7 @@
 
 ## others 
 
+- [OctoPrint/CustoPiZer](https://github.com/OctoPrint/CustoPiZer) - A customization tool for Raspberry Pi OS images like OctoPi
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [paabloLC/bitnami-docker](https://github.com/paabloLC/bitnami-docker) - Learn more about Bitnami's Docker images
 - [waltzHao/SVG_Circle](https://github.com/waltzHao/SVG_Circle) - 
@@ -1718,6 +1723,7 @@
 
 ## sql 
 
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 
 ## statistics 
@@ -1866,6 +1872,7 @@
 
 ## windows 
 
+- [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders - all for free! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll f
 - [SYQEL/SYQEL-VJ-Releases](https://github.com/SYQEL/SYQEL-VJ-Releases) - SYQEL VJ Desktop Application enables users to visualize their desktop audio feed and/or microphone audio input. Ideal for DJ's looking to visualize their music while streaming online. Compatible with 
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [Anon-Planet/thgtoa](https://github.com/Anon-Planet/thgtoa) - The comprehensive guide for online anonymity and OpSec
