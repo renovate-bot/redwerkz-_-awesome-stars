@@ -1266,7 +1266,7 @@
 - [mikhailklassen/Mining-the-Social-Web-3rd-Edition](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition) - The official online compendium for Mining the Social Web, 3rd Edition (O'Reilly, 2018)
 - [caesiumstudio/csBooks-updates](https://github.com/caesiumstudio/csBooks-updates) - csBooks is the best epub reader, pdf reader, mobi book reader and djvu reader for windows, linux and mac os. It solves your problems if you need ebook manager, library manager on linux, best comic boo
 - [bronson/geolocal](https://github.com/bronson/geolocal) - Geocode an IP address with a single if statement.  No network access, no context switches, no waiting.
-- [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
+- [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool
 - [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
@@ -1760,7 +1760,7 @@
 
 ## terraform 
 
-- [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure provisioned with Terraform
+- [coder/coder](https://github.com/coder/coder) - Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.
 
 ## testing 
 
