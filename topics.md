@@ -774,7 +774,6 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - Fast, clean, lightweight, robust, and efficient package management.
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
@@ -903,6 +902,7 @@
 - [undergroundwires/safe-email](https://github.com/undergroundwires/safe-email) - 🛡️📧 Protect e-mails against spam and scraping bots
 - [AwesomeWebProjects/react-player](https://github.com/AwesomeWebProjects/react-player) - One audio player built with ReactJS, Web Audio API and Web Worker API
 - [anirbanmu/Vizl](https://github.com/anirbanmu/Vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - Fast, clean, lightweight, robust, and efficient package management.
 - [webkul/coolhue](https://github.com/webkul/coolhue) - Coolest Gradient Hues and Swatches
 - [oslabs-beta/fflow](https://github.com/oslabs-beta/fflow) - fflow is an easy-to-use open-source tool for all developers to create their React application.
