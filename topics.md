@@ -6,6 +6,7 @@
 ## Contents
 
 - [ai](#ai)
+- [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
 - [ansible](#ansible)
@@ -163,6 +164,11 @@
 ## ai 
 
 - [keygx/Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector) - Go gopher Vector Data [.ai, .svg]
+
+## analytics 
+
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## android 
 
@@ -817,7 +823,7 @@
 - [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
-- [markteekman/accessible-astro-starter](https://github.com/markteekman/accessible-astro-starter) - An Accessible Starter Theme for Astro including accessiblity features such as landmarks, better focus-outline and skip-links navigation.
+- [markteekman/accessible-astro-starter](https://github.com/markteekman/accessible-astro-starter) - An Accessible Starter Theme for Astro including accessibility features such as landmarks, better focus-outline and skip-links navigation.
 - [sparanoid/lightense-images](https://github.com/sparanoid/lightense-images) - A dependency-free pure JavaScript image zooming library less than 2 KB (gzipped). Inspired by tholman/intense-images
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -924,7 +930,7 @@
 - [blopa/Resume-Builder](https://github.com/blopa/Resume-Builder) - Resume Builder is a free open-source project that allows anyone to easily maintain and build any kind of resume.
 - [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
-- [markteekman/accessible-astro-starter](https://github.com/markteekman/accessible-astro-starter) - An Accessible Starter Theme for Astro including accessiblity features such as landmarks, better focus-outline and skip-links navigation.
+- [markteekman/accessible-astro-starter](https://github.com/markteekman/accessible-astro-starter) - An Accessible Starter Theme for Astro including accessibility features such as landmarks, better focus-outline and skip-links navigation.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for developers
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [astro-community/astro-compress](https://github.com/astro-community/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
