@@ -217,7 +217,7 @@
 - [Automattic/go-search-replace](https://github.com/Automattic/go-search-replace) - 🚀 Search & replace URLs in WordPress SQL files.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-- [cshum/imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server in Go and libvips
+- [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library using libvips
 - [ssllabs/ssllabs-scan](https://github.com/ssllabs/ssllabs-scan) - A command-line reference-implementation client for SSL Labs APIs, designed for automated and/or bulk testing.
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [nickname76/telegrambot](https://github.com/nickname76/telegrambot) - Telegram Bot API 6.2 in Go
