@@ -195,7 +195,7 @@
 - [coder/tailscale](https://github.com/coder/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [ossf/scorecard](https://github.com/ossf/scorecard) - Security Scorecards - Security health metrics for Open Source
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [twiny/spidy](https://github.com/twiny/spidy) - Domain names collector - Crawl websites and collect domain names along with their availability status.
 - [imthaghost/goclone](https://github.com/imthaghost/goclone) - Website Cloner - Utilizes powerful Go routines to clone websites to your computer within seconds.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -596,6 +596,7 @@
 
 ## Python 
 
+- [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [manuelzander/ra-scraper](https://github.com/manuelzander/ra-scraper) - Scraper for Resident Advisor (https://residentadvisor.net/) events, prices and lineups using scrapy
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 - [SimonIT/spotifylyrics](https://github.com/SimonIT/spotifylyrics) - Fetches and displays lyrics to currently playing song in Spotify, Tidal and VLC.
@@ -697,6 +698,7 @@
 
 ## SCSS 
 
+- [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
 - [themarshallproject/klaxon](https://github.com/themarshallproject/klaxon) - Klaxon enables reporters and editors to monitor scores of sites on the web for newsworthy changes.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
@@ -827,7 +829,6 @@
 - [samueldobbie/shelf.gg](https://github.com/samueldobbie/shelf.gg) - A pastebin to find and share useful resources 📚
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-- [master-co/css-language-service](https://github.com/master-co/css-language-service) - Master CSS language service for Visual Studio Code, including Code completion, syntax highlighting, CSS hover preview, inline color decorators
 - [zaki-yama/copy-title-and-url-as-markdown](https://github.com/zaki-yama/copy-title-and-url-as-markdown) - Chrome Extension: Quickly copy the title & url of current tab as Markdown style
 - [windicss/windicss-analysis](https://github.com/windicss/windicss-analysis) - 🔍 A visual analyzer for Windi CSS
 - [heybokeh/pollen](https://github.com/heybokeh/pollen) - The CSS variables build system
