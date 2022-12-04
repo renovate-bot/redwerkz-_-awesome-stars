@@ -160,6 +160,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [xml](#xml)
 
 ## ai 
 
@@ -883,6 +884,7 @@
 
 ## javascript 
 
+- [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [remusao/tldts](https://github.com/remusao/tldts) - JavaScript Library to work against complex domain names, subdomains and URIs.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [magidoc-org/magidoc](https://github.com/magidoc-org/magidoc) - Autogenerate static GraphQL API documentation
@@ -948,6 +950,7 @@
 
 ## js 
 
+- [dvdn/webradios](https://github.com/dvdn/webradios) - A web page to group and play all your favorite webradios !
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 
 ## json 
@@ -1208,6 +1211,8 @@
 
 ## others 
 
+- [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
+- [jedrichards/rsyncwrapper](https://github.com/jedrichards/rsyncwrapper) - An async wrapper to the rsync command line utility for Node.js
 - [ansnoussi/reactio](https://github.com/ansnoussi/reactio) - react.js web radio player with songs autodetection
 - [Unreal-Dan/RekordBoxSongExporter](https://github.com/Unreal-Dan/RekordBoxSongExporter) - A hack for Rekordbox on Windows x64 to export track information for realtime integration with OBS
 - [mganss/CueGen](https://github.com/mganss/CueGen) - Create Rekordbox cue points from Mixed in Key
@@ -1921,6 +1926,10 @@
 - [adamsilverstein/modern-images-wp](https://github.com/adamsilverstein/modern-images-wp) - 
 - [Automattic/go-search-replace](https://github.com/Automattic/go-search-replace) - 🚀 Search & replace URLs in WordPress SQL files.
 - [litespeedtech/ols-docker-env](https://github.com/litespeedtech/ols-docker-env) - OpenLiteSpeed Docker Environment
+
+## xml 
+
+- [dvdn/webradios](https://github.com/dvdn/webradios) - A web page to group and play all your favorite webradios !
 
 
 ## License
