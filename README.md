@@ -126,6 +126,7 @@
 
 ## CSS 
 
+- [redwerkz/instagram-bio-link](https://github.com/redwerkz/instagram-bio-link) - For better communication in Instagram with your audience, it is better to have a link that audience can get acquainted with our other media and our services. There are sites that give us this link fre
 - [ferdium/ferdium-recipes](https://github.com/ferdium/ferdium-recipes) - 
 - [nasser-toghiri/instagram-bio-link](https://github.com/nasser-toghiri/instagram-bio-link) - For better communication in Instagram with your audience, it is better to have a link that audience can get acquainted with our other media and our services. There are sites that give us this link fre
 - [Benja-media/Ulink](https://github.com/Benja-media/Ulink) - Ulink (Formerly InstaLink) is an open source bio link generator. Ulink uses a simple json file to create a fast biolink! Ulink is a Static site generator that provides your links in a clean Bio link
@@ -255,6 +256,7 @@
 
 ## HTML 
 
+- [ThiagodePaulaSouza/link-bio](https://github.com/ThiagodePaulaSouza/link-bio) - my linktree
 - [erikrichardlarson/unbox](https://github.com/erikrichardlarson/unbox) - Log and display your rekordbox / Serato / Traktor / VirtualDJ / Denon / Mixxx tracks as they're played
 - [abrahamcalf/languages.abranhe.com](https://github.com/abrahamcalf/languages.abranhe.com) - Home of languages.abranhe.com the Programming Languages Logos Website
 - [Anon-Planet/thgtoa](https://github.com/Anon-Planet/thgtoa) - The comprehensive guide for online anonymity and OpSec
@@ -314,6 +316,7 @@
 
 ## JavaScript 
 
+- [alekspopovic/radio](https://github.com/alekspopovic/radio) - 
 - [dvdn/webradios](https://github.com/dvdn/webradios) - A web page to group and play all your favorite webradios !
 - [jedrichards/rsyncwrapper](https://github.com/jedrichards/rsyncwrapper) - An async wrapper to the rsync command line utility for Node.js
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
@@ -666,6 +669,7 @@
 
 ## Rust 
 
+- [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [redwerkz/cadmium](https://github.com/redwerkz/cadmium) - Transforms the colors of a given image according to a given palette
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -771,6 +775,7 @@
 
 ## TypeScript 
 
+- [malchata/dnstradamus](https://github.com/malchata/dnstradamus) - A prognosticating client-side DNS prefetcher for outbound links.
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [gregjacobs/js-to-ts-converter](https://github.com/gregjacobs/js-to-ts-converter) - Small utility to fix common js-&gt;ts issues in order to assist in migrating a codebase
