@@ -512,7 +512,7 @@
 ## Mustache 
 
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted DevOps Platform for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
 
 ## Nim 
 
