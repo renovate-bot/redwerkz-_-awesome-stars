@@ -659,7 +659,7 @@
 ## Ruby 
 
 - [discourse/all-the-plugins](https://github.com/discourse/all-the-plugins) - 
-- [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup GMail (or other IMAP) accounts to disk
+- [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup and Migrate IMAP Email Accounts
 - [bronson/geolocal](https://github.com/bronson/geolocal) - Geocode an IP address with a single if statement.  No network access, no context switches, no waiting.
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
