@@ -37,6 +37,7 @@
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
+- [dart](#dart)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [data-visualization](#data-visualization)
@@ -412,6 +413,7 @@
 - [css/csso](https://github.com/css/csso) - CSS minifier with structural optimizations
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
 - [sparanoid/lightense-images](https://github.com/sparanoid/lightense-images) - A dependency-free pure JavaScript image zooming library less than 2 KB (gzipped). Inspired by tholman/intense-images
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [astro-community/astro-compress](https://github.com/astro-community/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -425,6 +427,10 @@
 
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
+
+## dart 
+
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 
 ## data-analysis 
 
@@ -826,6 +832,7 @@
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
 - [markteekman/accessible-astro-starter](https://github.com/markteekman/accessible-astro-starter) - An Accessible Starter Theme for Astro including accessibility features such as landmarks, better focus-outline and skip-links navigation.
 - [sparanoid/lightense-images](https://github.com/sparanoid/lightense-images) - A dependency-free pure JavaScript image zooming library less than 2 KB (gzipped). Inspired by tholman/intense-images
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -1002,6 +1009,7 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 - [armbian/community](https://github.com/armbian/community) - Community rolling release
 - [enzo1982/freac](https://github.com/enzo1982/freac) - The fre:ac audio converter project
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
