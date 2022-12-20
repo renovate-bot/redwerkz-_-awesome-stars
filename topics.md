@@ -392,6 +392,7 @@
 
 ## css 
 
+- [larsenwork/postcss-easing-gradients](https://github.com/larsenwork/postcss-easing-gradients) - PostCSS plugin to create smooth linear-gradients that approximate easing functions.
 - [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
 - [Benja-media/Ulink](https://github.com/Benja-media/Ulink) - Ulink (Formerly InstaLink) is an open source bio link generator. Ulink uses a simple json file to create a fast biolink! Ulink is a Static site generator that provides your links in a clean Bio link
 - [jakobsen/fluid-typography](https://github.com/jakobsen/fluid-typography) - Find the perfect CSS values for your fluid heading, and control how it scales across different viewport widths.
@@ -603,6 +604,7 @@
 
 ## font 
 
+- [Ernxst/subfont](https://github.com/Ernxst/subfont) - A plugin to purge unused glyphs from your font files to minimise bundle size
 - [Iosevka-Mayukai/Iosevka-Mayukai](https://github.com/Iosevka-Mayukai/Iosevka-Mayukai) - Font based on Iosevka Custom Build, with combination from Iosevka SS04 Menlo, SS07 Monaco,  SS09 Source Code Pro, SS12 Ubuntu Mono, SS14 Jetbrains Mono, Hack Style, and some Nerd Font Patching.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [source-foundry/font-line](https://github.com/source-foundry/font-line) - OpenType vertical metrics reporting and font line spacing adjustment tool
@@ -753,6 +755,7 @@
 
 ## hacktoberfest 
 
+- [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [ferdium/ferdium-recipes](https://github.com/ferdium/ferdium-recipes) - 
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [SimonIT/spotifylyrics](https://github.com/SimonIT/spotifylyrics) - Fetches and displays lyrics to currently playing song in Spotify, Tidal and VLC.
@@ -1217,6 +1220,7 @@
 
 ## others 
 
+- [autotrace/autotrace](https://github.com/autotrace/autotrace) - bitmap to vector graphics converter
 - [malchata/dnstradamus](https://github.com/malchata/dnstradamus) - A prognosticating client-side DNS prefetcher for outbound links.
 - [redwerkz/instagram-bio-link](https://github.com/redwerkz/instagram-bio-link) - For better communication in Instagram with your audience, it is better to have a link that audience can get acquainted with our other media and our services. There are sites that give us this link fre
 - [alekspopovic/radio](https://github.com/alekspopovic/radio) - 
@@ -1623,6 +1627,7 @@
 
 ## raspberry-pi 
 
+- [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [femto-code/Raspberry-Pi-Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Web-based dashboard interface to inspect Raspberry Pi hardware and software with no extra software required.
 - [dresden-elektronik/deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin) - deCONZ REST-API plugin to control ZigBee devices
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
@@ -1905,6 +1910,7 @@
 
 ## website 
 
+- [Ernxst/subfont](https://github.com/Ernxst/subfont) - A plugin to purge unused glyphs from your font files to minimise bundle size
 - [Codelessly/ResponsiveFramework](https://github.com/Codelessly/ResponsiveFramework) - Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
