@@ -186,6 +186,7 @@
 
 ## Go 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
@@ -320,6 +321,7 @@
 
 ## JavaScript 
 
+- [internet4000/media-now](https://github.com/internet4000/media-now) - Get media information from YouTube and Vimeo videos, Spotify tracks and Discogs releases.
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [larsenwork/postcss-easing-gradients](https://github.com/larsenwork/postcss-easing-gradients) - PostCSS plugin to create smooth linear-gradients that approximate easing functions.
 - [alekspopovic/radio](https://github.com/alekspopovic/radio) - 
@@ -608,6 +610,7 @@
 
 ## Python 
 
+- [JOJ0/discodos](https://github.com/JOJ0/discodos) - the geekiest DJ tool on the planet
 - [plemeri/transparent-background](https://github.com/plemeri/transparent-background) - This is a background removing tool powered by InSPyReNet (ACCV 2022)
 - [eldraco/domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible. Made in python.
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
@@ -678,6 +681,7 @@
 
 ## Rust 
 
+- [pixers/imaginator](https://github.com/pixers/imaginator) - A web interface to imagemagick.
 - [projectM-visualizer/frontend-sdl2-rust](https://github.com/projectM-visualizer/frontend-sdl2-rust) - Rust | SDL2-based standalone application that turns your desktop audio into awesome visuals.
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [redwerkz/cadmium](https://github.com/redwerkz/cadmium) - Transforms the colors of a given image according to a given palette
@@ -729,6 +733,7 @@
 
 ## Shell 
 
+- [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Open source macOS Cursors.
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [OctoPrint/CustoPiZer](https://github.com/OctoPrint/CustoPiZer) - A customization tool for Raspberry Pi OS images like OctoPi
 - [paabloLC/bitnami-docker](https://github.com/paabloLC/bitnami-docker) - Learn more about Bitnami's Docker images
@@ -786,6 +791,7 @@
 
 ## TypeScript 
 
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension that makes designing and developing easier by finding, processing, exporting, optimizing, and managing SVG content.
 - [Ernxst/subfont](https://github.com/Ernxst/subfont) - A plugin to purge unused glyphs from your font files to minimise bundle size
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
