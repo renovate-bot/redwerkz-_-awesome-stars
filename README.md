@@ -52,6 +52,7 @@
 
 ## Assembly 
 
+- [vdechenaux/bootable-matrix-rain](https://github.com/vdechenaux/bootable-matrix-rain) - Boot on USB to a reproduction of the "Matrix digital rain" !
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
 ## Astro 
@@ -260,6 +261,7 @@
 
 ## HTML 
 
+- [surjithctly/neat-starter](https://github.com/surjithctly/neat-starter) - Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS
 - [googlefonts/unbounded](https://github.com/googlefonts/unbounded) - Open source, freely available and on-chain funded font.
 - [ThiagodePaulaSouza/link-bio](https://github.com/ThiagodePaulaSouza/link-bio) - my linktree
 - [erikrichardlarson/unbox](https://github.com/erikrichardlarson/unbox) - Log and display your rekordbox / Serato / Traktor / VirtualDJ / Denon / Mixxx tracks as they're played
@@ -321,6 +323,7 @@
 
 ## JavaScript 
 
+- [carlnewton/digital-rain](https://github.com/carlnewton/digital-rain) - An emulation of the digital rain visual effect from The Matrix
 - [internet4000/media-now](https://github.com/internet4000/media-now) - Get media information from YouTube and Vimeo videos, Spotify tracks and Discogs releases.
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [larsenwork/postcss-easing-gradients](https://github.com/larsenwork/postcss-easing-gradients) - PostCSS plugin to create smooth linear-gradients that approximate easing functions.
@@ -586,6 +589,7 @@
 
 ## PHP 
 
+- [libretime/libretime](https://github.com/libretime/libretime) - LibreTime: Radio Broadcast & Automation Platform
 - [adamsilverstein/modern-images-wp](https://github.com/adamsilverstein/modern-images-wp) - 
 - [femto-code/Raspberry-Pi-Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Web-based dashboard interface to inspect Raspberry Pi hardware and software with no extra software required.
 - [agorakit/agorakit](https://github.com/agorakit/agorakit) - Organization tool for citizen's collectives
@@ -791,6 +795,8 @@
 
 ## TypeScript 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension that makes designing and developing easier by finding, processing, exporting, optimizing, and managing SVG content.
 - [Ernxst/subfont](https://github.com/Ernxst/subfont) - A plugin to purge unused glyphs from your font files to minimise bundle size
