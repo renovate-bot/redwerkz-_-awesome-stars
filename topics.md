@@ -132,6 +132,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [rest-api](#rest-api)
 - [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
@@ -762,6 +763,9 @@
 
 ## hacktoberfest 
 
+- [libretime/libretime](https://github.com/libretime/libretime) - LibreTime: Radio Broadcast & Automation Platform
+- [surjithctly/neat-starter](https://github.com/surjithctly/neat-starter) - Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
@@ -1114,6 +1118,7 @@
 
 ## mysql 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 
@@ -1235,6 +1240,9 @@
 
 ## others 
 
+- [vdechenaux/bootable-matrix-rain](https://github.com/vdechenaux/bootable-matrix-rain) - Boot on USB to a reproduction of the "Matrix digital rain" !
+- [carlnewton/digital-rain](https://github.com/carlnewton/digital-rain) - An emulation of the digital rain visual effect from The Matrix
+- [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
 - [JOJ0/discodos](https://github.com/JOJ0/discodos) - the geekiest DJ tool on the planet
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Open source macOS Cursors.
 - [pixers/imaginator](https://github.com/pixers/imaginator) - A web interface to imagemagick.
@@ -1575,6 +1583,7 @@
 
 ## postgresql 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [dev-xo/stripe-postgres-stack](https://github.com/dev-xo/stripe-postgres-stack) - A Stripe focused Remix Stack that integrates User Subscriptions, Authentication and Testing. Javascript Supported. Deploys to Fly.io
 - [dev-xo/barebones-stack](https://github.com/dev-xo/barebones-stack) - A starter focused Remix Stack that integrates User Authentication, Forms validation and Testing. Driven by Prisma ORM. Deploys to Fly.io
@@ -1706,6 +1715,10 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
+
+## rest-api 
+
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## ruby 
 
