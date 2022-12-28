@@ -38,6 +38,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [QML](#qml)
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -72,6 +73,8 @@
 
 ## C 
 
+- [riftbit/old-radio-sound](https://github.com/riftbit/old-radio-sound) - The server to emulate old warm AM radio sound (like Fallout styled)
+- [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [autotrace/autotrace](https://github.com/autotrace/autotrace) - bitmap to vector graphics converter
 - [Unreal-Dan/RekordBoxSongExporter](https://github.com/Unreal-Dan/RekordBoxSongExporter) - A hack for Rekordbox on Windows x64 to export track information for realtime integration with OBS
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -111,6 +114,7 @@
 
 ## C++ 
 
+- [vc64web/virtualc64web](https://github.com/vc64web/virtualc64web) - vc64web - Commodore C64  Emulator for iPad iPhone Android and the Web with CSDb access for thousands of demos at your fingertip.
 - [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders - all for free! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll f
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
@@ -261,6 +265,7 @@
 
 ## HTML 
 
+- [RoelN/Compyx](https://github.com/RoelN/Compyx) - Multicolor OpenType font "Compyx"
 - [surjithctly/neat-starter](https://github.com/surjithctly/neat-starter) - Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS
 - [googlefonts/unbounded](https://github.com/googlefonts/unbounded) - Open source, freely available and on-chain funded font.
 - [ThiagodePaulaSouza/link-bio](https://github.com/ThiagodePaulaSouza/link-bio) - my linktree
@@ -323,6 +328,11 @@
 
 ## JavaScript 
 
+- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
+- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
+- [GoogleChromeLabs/AutoWebPerf](https://github.com/GoogleChromeLabs/AutoWebPerf) - AutoWebPerf provides a flexible and scalable framework for running web performance audits with arbitrary audit tools including PageSpeedInsights, WebPageTest and more.
+- [WPO-Foundation/webpagetest](https://github.com/WPO-Foundation/webpagetest) - Official repository for WebPageTest
+- [luxocrates/viciious](https://github.com/luxocrates/viciious) - A Commodore 64 emulator in JavaScript
 - [carlnewton/digital-rain](https://github.com/carlnewton/digital-rain) - An emulation of the digital rain visual effect from The Matrix
 - [internet4000/media-now](https://github.com/internet4000/media-now) - Get media information from YouTube and Vimeo videos, Spotify tracks and Discogs releases.
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
@@ -538,6 +548,7 @@
 
 ## Others 
 
+- [fcambus/jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
 - [kyrose/awesome-digital-gardens](https://github.com/kyrose/awesome-digital-gardens) - Inspirational digital gardens and resources for building your own 🍄🌻🌺🌿🌷🌼🌳🌻🌷🌼🌼🌻
 - [SYQEL/SYQEL-VJ-Releases](https://github.com/SYQEL/SYQEL-VJ-Releases) - SYQEL VJ Desktop Application enables users to visualize their desktop audio feed and/or microphone audio input. Ideal for DJ's looking to visualize their music while streaming online. Compatible with 
 - [Budibase/plugins](https://github.com/Budibase/plugins) - A curated list of Budibase plugins 🔌 including data sources and components.
@@ -614,6 +625,9 @@
 
 ## Python 
 
+- [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
+- [liberapay/liberapay.com](https://github.com/liberapay/liberapay.com) - Source code of the recurrent donations platform Liberapay
+- [mist64/c64ref](https://github.com/mist64/c64ref) - Ultimate Commodore 64 Reference: ROM Disassembly, Memory Map, ...
 - [JOJ0/discodos](https://github.com/JOJ0/discodos) - the geekiest DJ tool on the planet
 - [plemeri/transparent-background](https://github.com/plemeri/transparent-background) - This is a background removing tool powered by InSPyReNet (ACCV 2022)
 - [eldraco/domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible. Made in python.
@@ -666,6 +680,10 @@
 - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [ericdaat/webradio-to-spotify](https://github.com/ericdaat/webradio-to-spotify) - Scraping songs playing on various classic rock radios and upload them to my Spotify Playlist.
 - [7x11x13/free-bandcamp-downloader](https://github.com/7x11x13/free-bandcamp-downloader) - Get free/name your price music from Bandcamp
+
+## QML 
+
+- [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
 ## R 
 
@@ -795,6 +813,8 @@
 
 ## TypeScript 
 
+- [FranzFlueckiger/Storygram](https://github.com/FranzFlueckiger/Storygram) - Explore and visualize sequential grouping in your data!
+- [nurpax/petmate](https://github.com/nurpax/petmate) - PETSCII editor with Electron/React/Redux
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
