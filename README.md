@@ -139,7 +139,7 @@
 - [Benja-media/Ulink](https://github.com/Benja-media/Ulink) - Ulink (Formerly InstaLink) is an open source bio link generator. Ulink uses a simple json file to create a fast biolink! Ulink is a Static site generator that provides your links in a clean Bio link
 - [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
 - [UniversalGUI/UGUI](https://github.com/UniversalGUI/UGUI) - Universal Graphical User Interface
 - [domaindumper/domain-statistics](https://github.com/domaindumper/domain-statistics) - Domain Dumper daily domains states, You can get states of all registered domains from 1 January 1990. We cover 900 plus zone and update on every 24 hours
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -898,7 +898,7 @@
 - [Princesseuh/astro-social-images](https://github.com/Princesseuh/astro-social-images) - Social image generator for Astro
 - [ixartz/Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate) - 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Li
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - 🎥 full-featured wrapper around YouTube's private API — reverse engineering InnerTube
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [astro-community/astro-compress](https://github.com/astro-community/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
