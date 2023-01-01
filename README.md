@@ -73,6 +73,7 @@
 
 ## C 
 
+- [CZ-NIC/knot-resolver](https://github.com/CZ-NIC/knot-resolver) - Knot Resolver - resolve DNS names like it's 2022
 - [riftbit/old-radio-sound](https://github.com/riftbit/old-radio-sound) - The server to emulate old warm AM radio sound (like Fallout styled)
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [autotrace/autotrace](https://github.com/autotrace/autotrace) - bitmap to vector graphics converter
@@ -162,6 +163,7 @@
 
 ## Dart 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [Codelessly/ResponsiveFramework](https://github.com/Codelessly/ResponsiveFramework) - Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
@@ -191,6 +193,7 @@
 
 ## Go 
 
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
@@ -265,6 +268,7 @@
 
 ## HTML 
 
+- [bokub/git-history-editor](https://github.com/bokub/git-history-editor) - :pencil2: Online commit editor, intuitive and easy to use
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [RoelN/Compyx](https://github.com/RoelN/Compyx) - Multicolor OpenType font "Compyx"
 - [surjithctly/neat-starter](https://github.com/surjithctly/neat-starter) - Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS
@@ -329,6 +333,10 @@
 
 ## JavaScript 
 
+- [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
+- [mayank99/open-props-scss](https://github.com/mayank99/open-props-scss) - open-props as sass variables
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.
+- [sa-ma/remix-supabase-tutorial](https://github.com/sa-ma/remix-supabase-tutorial) - 
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [GoogleChromeLabs/AutoWebPerf](https://github.com/GoogleChromeLabs/AutoWebPerf) - AutoWebPerf provides a flexible and scalable framework for running web performance audits with arbitrary audit tools including PageSpeedInsights, WebPageTest and more.
@@ -627,6 +635,7 @@
 
 ## Python 
 
+- [rbsec/dnscan](https://github.com/rbsec/dnscan) - 
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [liberapay/liberapay.com](https://github.com/liberapay/liberapay.com) - Source code of the recurrent donations platform Liberapay
 - [mist64/c64ref](https://github.com/mist64/c64ref) - Ultimate Commodore 64 Reference: ROM Disassembly, Memory Map, ...
@@ -705,6 +714,8 @@
 
 ## Rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [Watfaq/PowerSession-rs](https://github.com/Watfaq/PowerSession-rs) - Rust implementation of PowerSession, with new features and enhancements
 - [pixers/imaginator](https://github.com/pixers/imaginator) - A web interface to imagemagick.
 - [projectM-visualizer/frontend-sdl2-rust](https://github.com/projectM-visualizer/frontend-sdl2-rust) - Rust | SDL2-based standalone application that turns your desktop audio into awesome visuals.
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
@@ -757,6 +768,7 @@
 
 ## Shell 
 
+- [zechris/asciinema-rec_script](https://github.com/zechris/asciinema-rec_script) - Record 💭 comments and ❯ commands from from shell scripts in addition to their output.
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Open source macOS Cursors.
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [OctoPrint/CustoPiZer](https://github.com/OctoPrint/CustoPiZer) - A customization tool for Raspberry Pi OS images like OctoPi
@@ -815,6 +827,8 @@
 
 ## TypeScript 
 
+- [yocontra/react-responsive](https://github.com/yocontra/react-responsive) - CSS media queries in react - for responsive design, and more.
+- [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [FranzFlueckiger/Storygram](https://github.com/FranzFlueckiger/Storygram) - Explore and visualize sequential grouping in your data!
 - [nurpax/petmate](https://github.com/nurpax/petmate) - PETSCII editor with Electron/React/Redux
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
