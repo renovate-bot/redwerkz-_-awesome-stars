@@ -1272,7 +1272,7 @@
 
 ## others 
 
-- [CZ-NIC/knot-resolver](https://github.com/CZ-NIC/knot-resolver) - Knot Resolver - resolve DNS names like it's 2022
+- [CZ-NIC/knot-resolver](https://github.com/CZ-NIC/knot-resolver) - Knot Resolver - resolve DNS names like it's 2023
 - [mayank99/open-props-scss](https://github.com/mayank99/open-props-scss) - open-props as sass variables
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.
 - [rbsec/dnscan](https://github.com/rbsec/dnscan) - 
