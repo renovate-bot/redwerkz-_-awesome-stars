@@ -193,6 +193,7 @@
 
 ## Go 
 
+- [lafriks/go-avatars](https://github.com/lafriks/go-avatars) - Go library for avatar generation.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -334,6 +335,7 @@
 
 ## JavaScript 
 
+- [Faboolea/shaders-on-scroll](https://github.com/Faboolea/shaders-on-scroll) - Smooth WebGL Shader Transformations on Scroll
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [mayank99/open-props-scss](https://github.com/mayank99/open-props-scss) - open-props as sass variables
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.
@@ -828,6 +830,7 @@
 
 ## TypeScript 
 
+- [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon) - Inline and sprite-based SVGs in Astro made easy!
 - [clerkinc/remix-auth-starter](https://github.com/clerkinc/remix-auth-starter) - Add sign up, sign in, profile management, and authenticated API routes to your Remix application with the Remix Auth Starter by Clerk.
 - [yocontra/react-responsive](https://github.com/yocontra/react-responsive) - CSS media queries in react - for responsive design, and more.
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
