@@ -1272,6 +1272,9 @@
 
 ## others 
 
+- [lafriks/go-avatars](https://github.com/lafriks/go-avatars) - Go library for avatar generation.
+- [Faboolea/shaders-on-scroll](https://github.com/Faboolea/shaders-on-scroll) - Smooth WebGL Shader Transformations on Scroll
+- [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon) - Inline and sprite-based SVGs in Astro made easy!
 - [CZ-NIC/knot-resolver](https://github.com/CZ-NIC/knot-resolver) - Knot Resolver - resolve DNS names like it's 2023
 - [mayank99/open-props-scss](https://github.com/mayank99/open-props-scss) - open-props as sass variables
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.
