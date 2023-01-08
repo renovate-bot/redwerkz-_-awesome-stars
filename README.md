@@ -271,6 +271,7 @@
 
 ## HTML 
 
+- [RayBB/ternary-converter](https://github.com/RayBB/ternary-converter) - Simple webpage to convert ternary conditionals to if else statements.
 - [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) - Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more.
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free
 - [bokub/git-history-editor](https://github.com/bokub/git-history-editor) - :pencil2: Online commit editor, intuitive and easy to use
@@ -338,6 +339,7 @@
 
 ## JavaScript 
 
+- [webkul/myscale](https://github.com/webkul/myscale) - myScale - Quick SVG Icon Resizer
 - [RafidMuhymin/astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) - Image Optimization tools for the Astro JS framework
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [Faboolea/shaders-on-scroll](https://github.com/Faboolea/shaders-on-scroll) - Smooth WebGL Shader Transformations on Scroll
