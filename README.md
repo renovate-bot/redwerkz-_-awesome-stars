@@ -193,6 +193,7 @@
 
 ## Go 
 
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [AlexGustafsson/upmon](https://github.com/AlexGustafsson/upmon) - A cloud-native, distributed uptime monitor written in Go
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -342,6 +343,7 @@
 
 ## JavaScript 
 
+- [astro-community/flow](https://github.com/astro-community/flow) - Use components to control flow in Astro.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [magicmark/composerize](https://github.com/magicmark/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
 - [webkul/myscale](https://github.com/webkul/myscale) - myScale - Quick SVG Icon Resizer
@@ -571,6 +573,9 @@
 
 ## Others 
 
+- [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
+- [greenmagenta/web-avant-gardes](https://github.com/greenmagenta/web-avant-gardes) - 💇‍♀️ Collection of experimental, radical, or unorthodox websites
+- [wallacewinfrey/RekordboxTraktorX1Mk1](https://github.com/wallacewinfrey/RekordboxTraktorX1Mk1) - Mappings & templates for controlling Rekordbox 4.x in performance mode with a Native Instruments X1 Mk1 MIDI controller
 - [fcambus/jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
 - [kyrose/awesome-digital-gardens](https://github.com/kyrose/awesome-digital-gardens) - Inspirational digital gardens and resources for building your own 🍄🌻🌺🌿🌷🌼🌳🌻🌷🌼🌼🌻
 - [SYQEL/SYQEL-VJ-Releases](https://github.com/SYQEL/SYQEL-VJ-Releases) - SYQEL VJ Desktop Application enables users to visualize their desktop audio feed and/or microphone audio input. Ideal for DJ's looking to visualize their music while streaming online. Compatible with 
@@ -649,6 +654,8 @@
 
 ## Python 
 
+- [soheyldaliraan/instagram_follower_bot_remover](https://github.com/soheyldaliraan/instagram_follower_bot_remover) - Python Script for detecting and blocking Instagram Sub Bots / Fake Followers
+- [julianps/kontrolx1](https://github.com/julianps/kontrolx1) - Ableton Live Control Surface for NI Kontrol X1 (MKI)
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - ❤️ The best icons for your personal dashboard.
 - [rbsec/dnscan](https://github.com/rbsec/dnscan) - 
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
@@ -843,6 +850,8 @@
 
 ## TypeScript 
 
+- [aolsenjazz/super-controller](https://github.com/aolsenjazz/super-controller) - Give your MIDI devices super powers: take control of the lights, messages, and communication between controllers.
+- [thedevelobear/react-rewards](https://github.com/thedevelobear/react-rewards) - A package containing a few micro-interactions you can use to reward your users for little things and make them smile!
 - [michaeldzjap/waveplayer](https://github.com/michaeldzjap/waveplayer) - An HTML5 based audio player with a waveform view
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [yahiko00/Starfield](https://github.com/yahiko00/Starfield) - Procedural generated 2D Starfield
