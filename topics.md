@@ -232,6 +232,8 @@
 
 ## awesome 
 
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
 - [dictcp/awesome-git](https://github.com/dictcp/awesome-git) - A curated list of amazingly awesome Git tools, resources and shiny things
@@ -251,6 +253,8 @@
 
 ## awesome-list 
 
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
@@ -493,6 +497,7 @@
 
 ## design 
 
+- [greenmagenta/web-avant-gardes](https://github.com/greenmagenta/web-avant-gardes) - 💇‍♀️ Collection of experimental, radical, or unorthodox websites
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [jakobsen/fluid-typography](https://github.com/jakobsen/fluid-typography) - Find the perfect CSS values for your fluid heading, and control how it scales across different viewport widths.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -564,6 +569,7 @@
 
 ## electron 
 
+- [aolsenjazz/super-controller](https://github.com/aolsenjazz/super-controller) - Give your MIDI devices super powers: take control of the lights, messages, and communication between controllers.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -585,6 +591,7 @@
 
 ## emoji 
 
+- [thedevelobear/react-rewards](https://github.com/thedevelobear/react-rewards) - A package containing a few micro-interactions you can use to reward your users for little things and make them smile!
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
@@ -707,6 +714,7 @@
 
 ## go 
 
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
@@ -735,6 +743,7 @@
 
 ## golang 
 
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
@@ -799,6 +808,7 @@
 
 ## hacktoberfest 
 
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
@@ -949,6 +959,8 @@
 
 ## javascript 
 
+- [astro-community/flow](https://github.com/astro-community/flow) - Use components to control flow in Astro.
+- [aolsenjazz/super-controller](https://github.com/aolsenjazz/super-controller) - Give your MIDI devices super powers: take control of the lights, messages, and communication between controllers.
 - [michaeldzjap/waveplayer](https://github.com/michaeldzjap/waveplayer) - An HTML5 based audio player with a waveform view
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [dwmkerr/starfield](https://github.com/dwmkerr/starfield) - A nice starfield background using built using HTML and vanilla JavaScript as a learning exercise.
@@ -1025,6 +1037,7 @@
 
 ## js 
 
+- [aolsenjazz/super-controller](https://github.com/aolsenjazz/super-controller) - Give your MIDI devices super powers: take control of the lights, messages, and communication between controllers.
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [dvdn/webradios](https://github.com/dvdn/webradios) - A web page to group and play all your favorite webradios !
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
@@ -1166,6 +1179,7 @@
 
 ## music 
 
+- [aolsenjazz/super-controller](https://github.com/aolsenjazz/super-controller) - Give your MIDI devices super powers: take control of the lights, messages, and communication between controllers.
 - [SYQEL/SYQEL-VJ-Releases](https://github.com/SYQEL/SYQEL-VJ-Releases) - SYQEL VJ Desktop Application enables users to visualize their desktop audio feed and/or microphone audio input. Ideal for DJ's looking to visualize their music while streaming online. Compatible with 
 - [aghontpi/ad-silence](https://github.com/aghontpi/ad-silence) - Mute Ad/promotions from Accuradio, Spotify, TIDAL & Pandora Android. Minimal, extensible & lightweight under 150kb.
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
@@ -1303,6 +1317,8 @@
 
 ## others 
 
+- [soheyldaliraan/instagram_follower_bot_remover](https://github.com/soheyldaliraan/instagram_follower_bot_remover) - Python Script for detecting and blocking Instagram Sub Bots / Fake Followers
+- [wallacewinfrey/RekordboxTraktorX1Mk1](https://github.com/wallacewinfrey/RekordboxTraktorX1Mk1) - Mappings & templates for controlling Rekordbox 4.x in performance mode with a Native Instruments X1 Mk1 MIDI controller
 - [AlexGustafsson/upmon](https://github.com/AlexGustafsson/upmon) - A cloud-native, distributed uptime monitor written in Go
 - [ameer1234567890/tinifier](https://github.com/ameer1234567890/tinifier) - Compress images using tinify.com API
 - [RayBB/ternary-converter](https://github.com/RayBB/ternary-converter) - Simple webpage to convert ternary conditionals to if else statements.
@@ -1701,6 +1717,7 @@
 
 ## python 
 
+- [julianps/kontrolx1](https://github.com/julianps/kontrolx1) - Ableton Live Control Surface for NI Kontrol X1 (MKI)
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [liberapay/liberapay.com](https://github.com/liberapay/liberapay.com) - Source code of the recurrent donations platform Liberapay
 - [philipmat/discogs-xml2db](https://github.com/philipmat/discogs-xml2db) - Imports the discogs.com monthly XML dumps into databases
@@ -1764,6 +1781,7 @@
 
 ## react 
 
+- [thedevelobear/react-rewards](https://github.com/thedevelobear/react-rewards) - A package containing a few micro-interactions you can use to reward your users for little things and make them smile!
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -1804,6 +1822,7 @@
 
 ## reactjs 
 
+- [thedevelobear/react-rewards](https://github.com/thedevelobear/react-rewards) - A package containing a few micro-interactions you can use to reward your users for little things and make them smile!
 - [burhan-syed/WebRoll](https://github.com/burhan-syed/WebRoll) - A place to submit and discover creations on the internet.
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [axelmy318/react-github-scraper](https://github.com/axelmy318/react-github-scraper) - Provides multiple customizable components to automatically load and display GitHub repositories data by just passing the targeted repository!
@@ -1967,6 +1986,7 @@
 
 ## typescript 
 
+- [astro-community/flow](https://github.com/astro-community/flow) - Use components to control flow in Astro.
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [yahiko00/Starfield](https://github.com/yahiko00/Starfield) - Procedural generated 2D Starfield
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
@@ -2032,6 +2052,7 @@
 
 ## web 
 
+- [greenmagenta/web-avant-gardes](https://github.com/greenmagenta/web-avant-gardes) - 💇‍♀️ Collection of experimental, radical, or unorthodox websites
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [liberapay/liberapay.com](https://github.com/liberapay/liberapay.com) - Source code of the recurrent donations platform Liberapay
 - [GoogleChromeLabs/AutoWebPerf](https://github.com/GoogleChromeLabs/AutoWebPerf) - AutoWebPerf provides a flexible and scalable framework for running web performance audits with arbitrary audit tools including PageSpeedInsights, WebPageTest and more.
