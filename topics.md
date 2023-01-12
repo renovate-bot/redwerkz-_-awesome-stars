@@ -907,6 +907,7 @@
 
 ## html5 
 
+- [erfjs/ejbank](https://github.com/erfjs/ejbank) - 
 - [michaeldzjap/waveplayer](https://github.com/michaeldzjap/waveplayer) - An HTML5 based audio player with a waveform view
 - [vc64web/virtualc64web](https://github.com/vc64web/virtualc64web) - vc64web - Commodore C64  Emulator for iPad iPhone Android and the Web with CSDb access for thousands of demos at your fingertip.
 - [anirbanmu/Vizl](https://github.com/anirbanmu/Vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
@@ -959,6 +960,7 @@
 
 ## javascript 
 
+- [erfjs/ejbank](https://github.com/erfjs/ejbank) - 
 - [astro-community/flow](https://github.com/astro-community/flow) - Use components to control flow in Astro.
 - [aolsenjazz/super-controller](https://github.com/aolsenjazz/super-controller) - Give your MIDI devices super powers: take control of the lights, messages, and communication between controllers.
 - [michaeldzjap/waveplayer](https://github.com/michaeldzjap/waveplayer) - An HTML5 based audio player with a waveform view
@@ -1037,6 +1039,7 @@
 
 ## js 
 
+- [erfjs/ejbank](https://github.com/erfjs/ejbank) - 
 - [aolsenjazz/super-controller](https://github.com/aolsenjazz/super-controller) - Give your MIDI devices super powers: take control of the lights, messages, and communication between controllers.
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [dvdn/webradios](https://github.com/dvdn/webradios) - A web page to group and play all your favorite webradios !
@@ -1317,6 +1320,8 @@
 
 ## others 
 
+- [SampurnaC/chrome_extension_fcc](https://github.com/SampurnaC/chrome_extension_fcc) - 
+- [ThantZinPhyo-OP/React-Portfolio](https://github.com/ThantZinPhyo-OP/React-Portfolio) - Responsive Portfolio Website Using React.Js
 - [soheyldaliraan/instagram_follower_bot_remover](https://github.com/soheyldaliraan/instagram_follower_bot_remover) - Python Script for detecting and blocking Instagram Sub Bots / Fake Followers
 - [wallacewinfrey/RekordboxTraktorX1Mk1](https://github.com/wallacewinfrey/RekordboxTraktorX1Mk1) - Mappings & templates for controlling Rekordbox 4.x in performance mode with a Native Instruments X1 Mk1 MIDI controller
 - [AlexGustafsson/upmon](https://github.com/AlexGustafsson/upmon) - A cloud-native, distributed uptime monitor written in Go
@@ -1876,6 +1881,7 @@
 
 ## sass 
 
+- [erfjs/ejbank](https://github.com/erfjs/ejbank) - 
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
