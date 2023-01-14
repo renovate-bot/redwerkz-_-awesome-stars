@@ -2003,6 +2003,7 @@
 ## typescript 
 
 - [astro-community/flow](https://github.com/astro-community/flow) - Use components to control flow in Astro.
+- [michaeldzjap/waveplayer](https://github.com/michaeldzjap/waveplayer) - An HTML5 based audio player with a waveform view
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [yahiko00/Starfield](https://github.com/yahiko00/Starfield) - Procedural generated 2D Starfield
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
