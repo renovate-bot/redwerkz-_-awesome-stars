@@ -275,6 +275,7 @@
 
 ## HTML 
 
+- [spdx/license-list-data](https://github.com/spdx/license-list-data) - Various data formats for the SPDX License List including RDFa, HTML, Text, and JSON
 - [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio) - 100% FREE professional portfolio website templates
 - [SampurnaC/chrome_extension_fcc](https://github.com/SampurnaC/chrome_extension_fcc) - 
 - [dwmkerr/starfield](https://github.com/dwmkerr/starfield) - A nice starfield background using built using HTML and vanilla JavaScript as a learning exercise.
@@ -578,6 +579,7 @@
 
 ## Others 
 
+- [withastro/action](https://github.com/withastro/action) - A GitHub Action that deploys your Astro project to GitHub Pages
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [greenmagenta/web-avant-gardes](https://github.com/greenmagenta/web-avant-gardes) - 💇‍♀️ Collection of experimental, radical, or unorthodox websites
@@ -860,6 +862,8 @@
 
 ## TypeScript 
 
+- [supabase-community/partner-gallery-example](https://github.com/supabase-community/partner-gallery-example) - Supabase Partner Gallery Example
+- [preactjs/preact-on-the-edge](https://github.com/preactjs/preact-on-the-edge) - Server-rendered Preact using Vercel Edge Functions.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [aolsenjazz/super-controller](https://github.com/aolsenjazz/super-controller) - Give your MIDI devices super powers: take control of the lights, messages, and communication between controllers.
 - [thedevelobear/react-rewards](https://github.com/thedevelobear/react-rewards) - A package containing a few micro-interactions you can use to reward your users for little things and make them smile!
