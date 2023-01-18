@@ -233,6 +233,7 @@
 
 ## awesome 
 
+- [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -254,6 +255,8 @@
 
 ## awesome-list 
 
+- [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -293,6 +296,8 @@
 
 ## bash 
 
+- [Cyclenerd/benchmark](https://github.com/Cyclenerd/benchmark) - 🏋️ Bash Script which runs several Linux benchmarks (Sysbench, UnixBench and Geekbench)
+- [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -342,6 +347,7 @@
 
 ## chrome-extension 
 
+- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension that makes designing and developing easier by finding, processing, exporting, optimizing, and managing SVG content.
 - [Thomas2500/uDomainFlag](https://github.com/Thomas2500/uDomainFlag) - uDomainFlag is a browser extension which shows the country flag of the currently visible website
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
@@ -375,6 +381,7 @@
 
 ## code 
 
+- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 
 ## code-quality 
@@ -414,6 +421,8 @@
 
 ## css 
 
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
+- [emmetio/emmet](https://github.com/emmetio/emmet) - The essential toolkit for web-developers
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [larsenwork/postcss-easing-gradients](https://github.com/larsenwork/postcss-easing-gradients) - PostCSS plugin to create smooth linear-gradients that approximate easing functions.
@@ -673,6 +682,7 @@
 
 ## frontend 
 
+- [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [JulianCataldo/web-garden](https://github.com/JulianCataldo/web-garden) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS, JS, TS… Configurations features ESLint, Prettier, Stylelint…
 - [heiseonline/embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
@@ -693,6 +703,7 @@
 
 ## github 
 
+- [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
 - [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) - Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more.
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -890,6 +901,7 @@
 
 ## html 
 
+- [emmetio/emmet](https://github.com/emmetio/emmet) - The essential toolkit for web-developers
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [dwmkerr/starfield](https://github.com/dwmkerr/starfield) - A nice starfield background using built using HTML and vanilla JavaScript as a learning exercise.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -965,6 +977,9 @@
 
 ## javascript 
 
+- [johnsorrentino/favicon.js](https://github.com/johnsorrentino/favicon.js) - Given a HTML5 canvas return an ICO formatted favicon.
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [erfjs/ejbank](https://github.com/erfjs/ejbank) - 
 - [astro-community/flow](https://github.com/astro-community/flow) - Use components to control flow in Astro.
 - [aolsenjazz/super-controller](https://github.com/aolsenjazz/super-controller) - Give your MIDI devices super powers: take control of the lights, messages, and communication between controllers.
@@ -1100,6 +1115,7 @@
 
 ## linux 
 
+- [Cyclenerd/benchmark](https://github.com/Cyclenerd/benchmark) - 🏋️ Bash Script which runs several Linux benchmarks (Sysbench, UnixBench and Geekbench)
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
@@ -1184,6 +1200,8 @@
 
 ## monitoring 
 
+- [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
+- [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [ddiiwoong/synology-prometheus](https://github.com/ddiiwoong/synology-prometheus) - Monitoring Synology NAS with snmp-exporter and prometheus
 - [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) - :computer: Maintained fork of the original Archey (Linux) system tool
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
@@ -1329,6 +1347,10 @@
 
 ## others 
 
+- [redwerkz/benchmark](https://github.com/redwerkz/benchmark) - 🏋️ Bash Script which runs several Linux benchmarks (Sysbench, UnixBench and Geekbench)
+- [Okazanta/okazanta-legacy](https://github.com/Okazanta/okazanta-legacy) - An open source status page and monitoring system for everyone. Based on Cachet
+- [anishathalye/proof-html](https://github.com/anishathalye/proof-html) - A GitHub Action to validate HTML using HTMLProofer ✔️
+- [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [supabase-community/partner-gallery-example](https://github.com/supabase-community/partner-gallery-example) - Supabase Partner Gallery Example
 - [preactjs/preact-on-the-edge](https://github.com/preactjs/preact-on-the-edge) - Server-rendered Preact using Vercel Edge Functions.
 - [withastro/action](https://github.com/withastro/action) - A GitHub Action that deploys your Astro project to GitHub Pages
@@ -1906,6 +1928,7 @@
 
 ## security 
 
+- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
 - [Anon-Planet/thgtoa](https://github.com/Anon-Planet/thgtoa) - The comprehensive guide for online anonymity and OpSec
@@ -2003,11 +2026,13 @@
 
 ## twitter 
 
+- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [astro-community/astro-embed](https://github.com/astro-community/astro-embed) - Experimental embeds provider for Astro
 - [juanv911/SocialCounters](https://github.com/juanv911/SocialCounters) - jQuery/PHP - Collection of Social Media APIs that display number of your social media fans. Facebook Likes, Twitter Followers, Instagram Followers, YouTube Subscribers, etc..
 
 ## typescript 
 
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [astro-community/flow](https://github.com/astro-community/flow) - Use components to control flow in Astro.
 - [michaeldzjap/waveplayer](https://github.com/michaeldzjap/waveplayer) - An HTML5 based audio player with a waveform view
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
@@ -2047,6 +2072,7 @@
 
 ## ubuntu 
 
+- [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
@@ -2103,6 +2129,7 @@
 
 ## webpack 
 
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [fazt/github-client](https://github.com/fazt/github-client) - A Frontend Application using Pure Javascript and Github API
 - [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify
@@ -2110,6 +2137,7 @@
 
 ## website 
 
+- [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org) - Source of open-vsx.org
 - [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) - Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more.
 - [Ernxst/subfont](https://github.com/Ernxst/subfont) - A plugin to purge unused glyphs from your font files to minimise bundle size
 - [Codelessly/ResponsiveFramework](https://github.com/Codelessly/ResponsiveFramework) - Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/
