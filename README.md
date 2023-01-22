@@ -595,6 +595,7 @@
 
 ## Others 
 
+- [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [opencontainers/artwork](https://github.com/opencontainers/artwork) - OCI artwork and logos
 - [adbar/German-NLP](https://github.com/adbar/German-NLP) - Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German
 - [webalys-hq/streamline-vectors](https://github.com/webalys-hq/streamline-vectors) - 
