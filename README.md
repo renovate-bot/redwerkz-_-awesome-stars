@@ -196,6 +196,7 @@
 
 ## Go 
 
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 - [essentialkaos/translit](https://github.com/essentialkaos/translit) - Go package for Russian text transliteration
 - [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
