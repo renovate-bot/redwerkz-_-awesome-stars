@@ -172,6 +172,8 @@
 
 ## Dockerfile 
 
+- [mgoltzsche/podman-static](https://github.com/mgoltzsche/podman-static) - static podman binaries and container image
+- [renovatebot/docker-renovate](https://github.com/renovatebot/docker-renovate) - Renovate docker slim image
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [truecharts/containers](https://github.com/truecharts/containers) - TrueCharts container repository
 - [BretFisher/github-actions-templates](https://github.com/BretFisher/github-actions-templates) - 
@@ -196,6 +198,10 @@
 
 ## Go 
 
+- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
+- [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
+- [dwisiswant0/tlder](https://github.com/dwisiswant0/tlder) - TLDs finder — check domain name availability across all valid top-level domains.
+- [zonedb/zonedb](https://github.com/zonedb/zonedb) - Public Zone Database
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 - [essentialkaos/translit](https://github.com/essentialkaos/translit) - Go package for Russian text transliteration
 - [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
@@ -573,6 +579,7 @@
 
 ## Makefile 
 
+- [spdx/license-list-XML](https://github.com/spdx/license-list-XML) - This is the repository for the master files that comprise the  SPDX License List
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
 - [publysher/docker-hugo](https://github.com/publysher/docker-hugo) - Docker base image for static sites generated with Hugo
@@ -584,6 +591,7 @@
 
 ## Mustache 
 
+- [mend/renovate-on-prem](https://github.com/mend/renovate-on-prem) - WhiteSource Renovate On-Premises Documentation & Examples
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
 
@@ -690,6 +698,8 @@
 
 ## Python 
 
+- [cderinbogaz/namekrea](https://github.com/cderinbogaz/namekrea) - NameKrea is an AI Domain Name Generator which uses GPT-2
+- [dnstwister/dnstwister](https://github.com/dnstwister/dnstwister) - Domain name permutation as a service
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [bagder/uncurled](https://github.com/bagder/uncurled) - Uncurled - everything I know and learned about running and maintaining Open Source projects for three decades.
@@ -822,6 +832,8 @@
 
 ## SCSS 
 
+- [jhalmu/my-astro-pages-v2](https://github.com/jhalmu/my-astro-pages-v2) - Colorful astro-pages for fun. Projects came from github when rebuild, outcome static html
+- [markteekman/advice-generator-app](https://github.com/markteekman/advice-generator-app) - Frontend Mentor challenge "Advice Generator App" using CSS Flexbox and Grid, Accessibility best practices, CSS Animations and the Fetch API for the random advices.
 - [ifrOSS/ifrOSS](https://github.com/ifrOSS/ifrOSS) - Übersicht und Kategorisierung von Freien Lizenzen
 - [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
 - [themarshallproject/klaxon](https://github.com/themarshallproject/klaxon) - Klaxon enables reporters and editors to monitor scores of sites on the web for newsworthy changes.
@@ -904,6 +916,8 @@
 
 ## TypeScript 
 
+- [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
+- [meilisearch/instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) - The search client to use Meilisearch with InstantSearch.
 - [ricardodantas/website-carbon-calculator](https://github.com/ricardodantas/website-carbon-calculator) - This package calculates the carbon emission by the network traffic from a given URL.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [diez/diez](https://github.com/diez/diez) - The Design Token Framework — Adopt a unified design language across platforms, codebases, and teams
@@ -991,7 +1005,7 @@
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
-- [TanStack/ranger](https://github.com/TanStack/ranger) - ⚛️ Hooks for building range and multi-range sliders in React
+- [TanStack/ranger](https://github.com/TanStack/ranger) - 🤖 Headless utilities for building range and multi-range sliders in React, Preact, Solid, Vue, Svelte and Angular
 - [bejamas/dodonut-og-image](https://github.com/bejamas/dodonut-og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
