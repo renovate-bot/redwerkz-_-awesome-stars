@@ -198,6 +198,7 @@
 
 ## Go 
 
+- [dee-al/domain.dee.al](https://github.com/dee-al/domain.dee.al) - Create free subdomain free
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
 - [dwisiswant0/tlder](https://github.com/dwisiswant0/tlder) - TLDs finder — check domain name availability across all valid top-level domains.
@@ -363,6 +364,7 @@
 
 ## JavaScript 
 
+- [open-domains/register](https://github.com/open-domains/register) - Free subdomains for personal sites, open-source projects, and more.
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [ngryman/cz-emoji](https://github.com/ngryman/cz-emoji) - Commitizen adapter formatting commit messages using emojis.
 - [thegreenwebfoundation/co2.js](https://github.com/thegreenwebfoundation/co2.js) - An npm module for accessing the green web API, and estimating the carbon emissions from using digital services
@@ -607,6 +609,7 @@
 
 ## Others 
 
+- [emilebosch/awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources
 - [ReadmeCritic/awesome-react](https://github.com/ReadmeCritic/awesome-react) - A collection of awesome things regarding React ecosystem
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [opencontainers/artwork](https://github.com/opencontainers/artwork) - OCI artwork and logos
@@ -922,6 +925,7 @@
 
 ## TypeScript 
 
+- [sondr3/astro-compressor](https://github.com/sondr3/astro-compressor) - A gzip and brotli compressor for Astro
 - [marcolink/contentful-remix-starter-blog](https://github.com/marcolink/contentful-remix-starter-blog) - Remix starter for a Contentful blog (template) project
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
 - [meilisearch/instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) - The search client to use Meilisearch with InstantSearch.
@@ -983,7 +987,7 @@
 - [novacbn/svelte-in-motion](https://github.com/novacbn/svelte-in-motion) - Remotion clone, but in Svelte!
 - [amoutonbrady/solid-heroicons](https://github.com/amoutonbrady/solid-heroicons) - 
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [denosaurs/mod.land](https://github.com/denosaurs/mod.land) - 📦 Pretty subdomains for you deno project
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
