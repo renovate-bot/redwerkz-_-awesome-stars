@@ -445,6 +445,7 @@
 
 ## css 
 
+- [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [jhalmu/my-astro-pages-v2](https://github.com/jhalmu/my-astro-pages-v2) - Colorful astro-pages for fun. Projects came from github when rebuild, outcome static html
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
@@ -789,6 +790,7 @@
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
+- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [nickname76/telegrambot](https://github.com/nickname76/telegrambot) - Telegram Bot API 6.2 in Go
@@ -801,6 +803,7 @@
 
 ## golang 
 
+- [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
 - [dwisiswant0/tlder](https://github.com/dwisiswant0/tlder) - TLDs finder — check domain name availability across all valid top-level domains.
 - [zonedb/zonedb](https://github.com/zonedb/zonedb) - Public Zone Database
@@ -832,6 +835,7 @@
 - [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 - [augmentable-dev/tickgit](https://github.com/augmentable-dev/tickgit) - Manage your repository's TODOs, tickets and checklists as config in your codebase.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
@@ -872,6 +876,8 @@
 
 ## hacktoberfest 
 
+- [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+- [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
@@ -1427,6 +1433,9 @@
 
 ## others 
 
+- [jwobith/docker-gitea](https://github.com/jwobith/docker-gitea) - Docker Gitea Service
+- [AnWeber/dot-icons](https://github.com/AnWeber/dot-icons) - File Icon Extension for VSCode or VSCodium
+- [aarol/variable-font-helper](https://github.com/aarol/variable-font-helper) - Self host variable fonts from Google Fonts
 - [sondr3/astro-compressor](https://github.com/sondr3/astro-compressor) - A gzip and brotli compressor for Astro
 - [dee-al/domain.dee.al](https://github.com/dee-al/domain.dee.al) - Create free subdomain free
 - [radicle-dev/radicle-cli](https://github.com/radicle-dev/radicle-cli) - Radicle CLI
@@ -1833,7 +1842,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [dev-xo/stripe-postgres-stack](https://github.com/dev-xo/stripe-postgres-stack) - A Stripe focused Remix Stack that integrates User Subscriptions, Authentication and Testing. Javascript Supported. Deploys to Fly.io
-- [dev-xo/barebones-stack](https://github.com/dev-xo/barebones-stack) - A starter focused Remix Stack that integrates User Authentication, Forms validation and Testing. Driven by Prisma ORM. Deploys to Fly.io
+- [dev-xo/barebones-stack](https://github.com/dev-xo/barebones-stack) - A starter focused Remix Stack that integrates User Authentication. Testing Ready. Driven by Prisma ORM. Deploys to Fly.io
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
@@ -2168,7 +2177,7 @@
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [myxvisual/react-uwp](https://github.com/myxvisual/react-uwp) - 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design.
 - [dev-xo/stripe-postgres-stack](https://github.com/dev-xo/stripe-postgres-stack) - A Stripe focused Remix Stack that integrates User Subscriptions, Authentication and Testing. Javascript Supported. Deploys to Fly.io
-- [dev-xo/barebones-stack](https://github.com/dev-xo/barebones-stack) - A starter focused Remix Stack that integrates User Authentication, Forms validation and Testing. Driven by Prisma ORM. Deploys to Fly.io
+- [dev-xo/barebones-stack](https://github.com/dev-xo/barebones-stack) - A starter focused Remix Stack that integrates User Authentication. Testing Ready. Driven by Prisma ORM. Deploys to Fly.io
 - [ravenclaw900/DietPi-Dashboard](https://github.com/ravenclaw900/DietPi-Dashboard) - A lightweight, standalone web dashboard for DietPi
 - [anirbanmu/Vizl](https://github.com/anirbanmu/Vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
@@ -2245,6 +2254,7 @@
 
 ## webpack 
 
+- [originjs/webpack-to-vite](https://github.com/originjs/webpack-to-vite) - Convert a webpack/vue-cli project to vite project. 将 webpack/vue-cli 项目转换为 vite 项目。
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [fazt/github-client](https://github.com/fazt/github-client) - A Frontend Application using Pure Javascript and Github API
